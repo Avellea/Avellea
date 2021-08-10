@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![DynamicDonkey's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=DynamicDonkey&theme=midnight-purple)
+![DynamicDonkey's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=DynamicDonkey)
 
 <!--
 **DynamicDonkey/DynamicDonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
