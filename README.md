@@ -20,9 +20,13 @@ I actively work with Chested.net, a Minecraft content creation company, but I al
 <summary>:bar_chart: Favorite Anime</summary>
   
 [K-ON!](https://anilist.co/anime/5680/KON/)
+
 [KONOSUBA](https://anilist.co/anime/21202/KONOSUBA-Gods-blessing-on-this-wonderful-world/)
-[Toradora!](https://anilist.co/anime/4224/Toradora/)\
+
+[Toradora!](https://anilist.co/anime/4224/Toradora/)
+
 [Miss Kobayashi's Dragon Maid](https://anilist.co/anime/21776/Miss-Kobayashis-Dragon-Maid/)
+
 
 
 </details>
@@ -31,7 +35,9 @@ I actively work with Chested.net, a Minecraft content creation company, but I al
 <summary>:girl: Best Girl List</summary>
   
 [Taiga Aisaka](https://anilist.co/character/12064/Taiga-Aisaka)
+
 [Shinobu Oshino](https://anilist.co/character/23602/Shinobu-Oshino)
+
 [Marisa Kirisame](https://anilist.co/character/5458/Marisa-Kirisame)
 
 </details>
