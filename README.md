@@ -15,8 +15,6 @@ I actively work with Chested.net, a Minecraft content creation company, but I al
 
 ![DynamicDonkey's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=DynamicDonkey)
 
-<details>
-<summary>:bar_chart: Recent Anilist Activity</summary>
 
 <details>
 <summary>:bar_chart: Recent Anilist Activity</summary>
