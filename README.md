@@ -14,3 +14,38 @@ I actively work with Chested.net, a Minecraft content creation company, but I al
 - [Chested.net backend](https://chested.net/)
 
 ![DynamicDonkey's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=DynamicDonkey)
+
+<details>
+<summary>:bar_chart: Recent Anilist Activity</summary>
+
+<details>
+<summary>:bar_chart: Recent Anilist Activity</summary>
+  
+<!-- anilist_activity starts -->
+<!-- anilist_activity ends -->
+
+</details>
+
+<details>
+<summary>:tv: List Favorites Anime</summary>
+  
+<!-- favorites_anime starts -->
+<!-- favorites_anime ends -->
+
+</details>
+
+<details>
+<summary>:book: List Favorites Manga</summary>
+  
+<!-- favorites_manga starts -->
+<!-- favorites_manga ends -->
+
+</details>
+
+<details>
+<summary>:girl: List Favorites Characters</summary>
+  
+<!-- favorites_characters starts -->
+<!-- favorites_characters ends -->
+
+</details>
