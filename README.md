@@ -1,18 +1,16 @@
 ### Hi there 👋
 
+I'm [Avellea (19 y.o.)](https://dynamicdonkey.github.io/)
+
+I actively work with Chested.net, a Minecraft content creation company, but I also work on anime related projects in my personal time.
+
+:page_with_curl: I'm currently learning:
+- Python
+- JavaScript
+- C++
+
+:star: Here are some projects that I'm working on:
+- [Saucebot V2](https://github.com/DynamicDonkey/Saucebot-V2)
+- [Chested.net backend](https://chested.net/)
+
 ![DynamicDonkey's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=DynamicDonkey)
-
-<!--
-**DynamicDonkey/DynamicDonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
