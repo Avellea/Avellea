@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Avellea (19 y.o.)](https://dynamicdonkey.github.io/)
+I'm [Avellea (20 y.o.)](https://dynamicdonkey.github.io/)
 
 I actively work with Chested.net, a Minecraft content creation company, but I also work on anime related projects in my personal time.
 
