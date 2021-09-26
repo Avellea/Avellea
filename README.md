@@ -13,7 +13,7 @@ I actively work with Chested Studios, a Minecraft content creation company, but 
 - [Mayuko](https://github.com/DynamicDonkey/Mayuko)
 - [Chested Studios backend](https://chested.net/)
 
-![DynamicDonkey's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=DynamicDonkey)
+![DynamicDonkey's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Avellea)
 
 
 <details>
