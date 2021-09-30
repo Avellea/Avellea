@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Avellea (20 y.o.)](https://dynamicdonkey.github.io/)
+I'm [Avellea (20 y.o.)](https://avellea.github.io/)
 
 I actively work with Chested Studios, a Minecraft content creation company, but I also work on anime related projects in my personal time.
 
@@ -10,10 +10,11 @@ I actively work with Chested Studios, a Minecraft content creation company, but 
 - C++
 
 :star: Here are some projects that I'm working on:
-- [Mayuko](https://github.com/DynamicDonkey/Mayuko)
+- [Mayuko](https://github.com/Avellea/Mayuko)
+- [Mayuko-Twitch](https://github.com/Avellea/mayuko-twitch)
 - [Chested Studios backend](https://chested.net/)
 
-![DynamicDonkey's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Avellea)
+![Avellea's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Avellea)
 
 
 <details>
