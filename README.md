@@ -10,7 +10,7 @@ I actively work with Chested Studios, a Minecraft content creation company, but 
 - C++
 
 :star: Here are some projects that I'm working on:
-- [Mayuko](https://github.com/Avellea/Mayuko)
+- [Mayuko](https://github.com/mayukobot/mayuko-js)
 - [Mayuko-Twitch](https://github.com/Avellea/mayuko-twitch)
 - [Chested Studios backend](https://chested.net/)
 
