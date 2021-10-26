@@ -12,7 +12,6 @@ I actively work with Chested Studios, a Minecraft content creation company, but 
 :star: Here are some projects that I'm working on:
 - [Mayuko](https://github.com/mayukobot/mayuko-js)
 - [Mayuko-Twitch](https://github.com/Avellea/mayuko-twitch)
-- [Chested Studios backend](https://chested.net/)
 
 ![Avellea's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Avellea)
 
