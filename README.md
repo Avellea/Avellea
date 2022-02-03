@@ -10,4 +10,4 @@
 > - Fun fact: `come back soon, am boring`
 > - I've coded in: `c` `c++` `java` `c#` `html/css` `js` `python`
 
-![Flan Tam peepoHappy](https://cdn.discordapp.com/emojis/589009146930659335.gif)
+![waifu](https://i.pinimg.com/originals/5f/95/04/5f9504eb5a7d27ec7a6121b9e9aa48b3.gif)
