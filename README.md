@@ -20,14 +20,25 @@
 
 ---
 
-<p style="text-align: center; font-size: 24px;">Avellea | 20 | IT</p>
+<center>
+
+#Avellea | 20 | IT
+
+</center>
 
 ---
-<p style="text-align: center; font-size: 24px;">Fun facts</p>
-<p style="text-align: center; font-size: 16px;">Waifu is Ruri Gokou from Oreimo</p>
-<p style="text-align: center; font-size: 16px;">Developer for Twitch VTuber <a>Kazuki</a></p>
-<p style="text-align: center; font-size: 16px;">Creator of <a>KonpakuBot</a>. An AniList, osu!, and moderator bot for Discord</p>
-<p style="text-align: center; font-size: 16px;">Visual novel and danmaku connoisseur</p>
+<center>
+
+#Fun facts
+
+Waifu is Ruri Gokou from Oreimo
+
+Developer for Twitch VTuber Kazuki
+
+Creator of KonpakuBot. An AniList, osu! and moderator bot for Discord
+
+Visual novel and danmaku connoisseur
+
 
 ---
 
