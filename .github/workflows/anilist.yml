@@ -7,11 +7,11 @@ on:
 
 jobs:
   update-readme-with-blog:
-  name: Update this repos README with the latest AniList activities
-  runs-on: ubuntu-latest
-  steps:
-    - uses: actions/checkout@v2
-    - name: Anilist readme workflow
-      uses: pxseu/anilist-readme@v1.3.4
-      with:
-        user_id: 5211659
+    name: Update this repos README with the latest AniList activities
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Anilist readme workflow
+        uses: pxseu/anilist-readme@v1.3.4
+       with:
+          user_id: 5211659
