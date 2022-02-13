@@ -18,26 +18,22 @@
 
 <!-- ANILIST_ACTIVITY:end -->
 
----
+<h1 align="center">
+Avellea | 20 | IT
+</h1>
 
-<center>
 
-#Avellea | 20 | IT
 
-</center>
+<h2 align="center">
+Fun facts
+</h1>
 
----
-<center>
-
-#Fun facts
-
-Waifu is Ruri Gokou from Oreimo
-
-Developer for Twitch VTuber Kazuki
-
-Creator of KonpakuBot. An AniList, osu! and moderator bot for Discord
-
+<p align="center">
+Waifu is Ruri Gokou from Oreimo<br>
+Developer for Twitch VTuber Kazuki<br>
+Creator of KonpakuBot. An AniList, osu! and moderator bot for Discord<br>
 Visual novel and danmaku connoisseur
+</p>
 
 
 ---
