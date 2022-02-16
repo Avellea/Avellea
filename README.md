@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (23:01, 16 February 2022)
 -   📺 Watched episode 7 of [My Teen Romantic Comedy SNAFU TOO!](https://anilist.co/anime/20698) (05:47, 15 February 2022)
 -   📖 Plans to read [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (22:45, 14 February 2022)
 -   📖 Read chapter 94 of [The Girl I Like Forgot Her Glasses](https://anilist.co/manga/105641) (22:41, 14 February 2022)
 -   📖 Completed [Kono Subarashii Sekai ni Shukufuku wo! Megumin Anthology Aka](https://anilist.co/manga/107262) (22:40, 14 February 2022)
--   📖 Read chapter 7 - 12 of [Kono Subarashii Sekai ni Shukufuku wo! Megumin Anthology Aka](https://anilist.co/manga/107262) (22:38, 14 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
