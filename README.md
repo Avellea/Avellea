@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 19 - 21 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (14:53, 17 February 2022)
 -   📖 Read chapter 341 - 342 of [Komi Can't Communicate](https://anilist.co/manga/97852) (07:07, 17 February 2022)
 -   📺 Completed [My Teen Romantic Comedy SNAFU TOO!](https://anilist.co/anime/20698) (06:09, 17 February 2022)
 -   📖 Read chapter 1 - 18 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (23:59, 16 February 2022)
 -   📺 Watched episode 7 of [My Teen Romantic Comedy SNAFU TOO!](https://anilist.co/anime/20698) (05:47, 15 February 2022)
--   📖 Plans to read [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (22:45, 14 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
