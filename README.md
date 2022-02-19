@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (00:10, 19 February 2022)
 -   📺 Watched episode 7 of [Teasing Master Takagi-san Season 3](https://anilist.co/anime/138424) (18:58, 18 February 2022)
 -   📺 Watched episode 1 - 8 of [My Teen Romantic Comedy SNAFU Climax!](https://anilist.co/anime/108489) (05:20, 18 February 2022)
 -   📺 Plans to watch [Princess Connect! Re:Dive](https://anilist.co/anime/107871) (21:16, 17 February 2022)
 -   📖 Dropped [Chorokute Kawaii Kimi ga Suki](https://anilist.co/manga/132945) (17:08, 17 February 2022)
--   📖 Read chapter 1 of [Chorokute Kawaii Kimi ga Suki](https://anilist.co/manga/132945) (17:08, 17 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
