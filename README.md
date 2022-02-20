@@ -27,7 +27,7 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [Lucky☆Star](https://anilist.co/anime/1887) (05:30, 20 February 2022)
+-   📺 Watched episode 2 - 4 of [Lucky☆Star](https://anilist.co/anime/1887) (06:30, 20 February 2022)
 -   📺 Watched episode 7 of [My Dress-Up Darling](https://anilist.co/anime/132405) (17:44, 19 February 2022)
 -   📺 Paused watching [InuYasha](https://anilist.co/anime/249) (06:13, 19 February 2022)
 -   📺 Completed [My Teen Romantic Comedy SNAFU Climax!](https://anilist.co/anime/108489) (05:48, 19 February 2022)
