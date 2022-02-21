@@ -27,7 +27,7 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 5 of [A Sister's All You Need.](https://anilist.co/anime/98596) (05:25, 21 February 2022)
+-   📺 Watched episode 5 - 6 of [A Sister's All You Need.](https://anilist.co/anime/98596) (06:13, 21 February 2022)
 -   📺 Watched episode 7 of [Lucky☆Star](https://anilist.co/anime/1887) (03:30, 21 February 2022)
 -   📺 Watched episode 2 - 4 of [Lucky☆Star](https://anilist.co/anime/1887) (06:30, 20 February 2022)
 -   📺 Watched episode 7 of [My Dress-Up Darling](https://anilist.co/anime/132405) (17:44, 19 February 2022)
