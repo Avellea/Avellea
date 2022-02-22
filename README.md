@@ -27,7 +27,7 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 9 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (02:20, 22 February 2022)
+-   📖 Read chapter 1 - 10 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (02:36, 22 February 2022)
 -   📖 Plans to read [Tights de Iyashite Kureru Yome](https://anilist.co/manga/113396) (14:34, 21 February 2022)
 -   📺 Watched episode 5 - 6 of [A Sister's All You Need.](https://anilist.co/anime/98596) (06:13, 21 February 2022)
 -   📺 Watched episode 7 of [Lucky☆Star](https://anilist.co/anime/1887) (03:30, 21 February 2022)
