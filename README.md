@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 21 - 23 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (07:54, 23 February 2022)
 -   📖 Read chapter 1 - 20 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (15:22, 22 February 2022)
 -   📖 Read chapter 30 of [Imouto sae Ireba Ii. @comic](https://anilist.co/manga/96447) (14:47, 22 February 2022)
 -   📖 Read chapter 343 of [Komi Can't Communicate](https://anilist.co/manga/97852) (06:47, 22 February 2022)
 -   📺 Completed [A Sister's All You Need.](https://anilist.co/anime/98596) (05:57, 22 February 2022)
--   📺 Watched episode 12 of [A Sister's All You Need.](https://anilist.co/anime/98596) (05:55, 22 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
