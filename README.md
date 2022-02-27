@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 15 of [Lucky☆Star](https://anilist.co/anime/1887) (06:35, 27 February 2022)
 -   📺 Watched episode 8 of [My Dress-Up Darling](https://anilist.co/anime/132405) (19:21, 26 February 2022)
 -   📺 Watched episode 12 of [Lucky☆Star](https://anilist.co/anime/1887) (06:22, 26 February 2022)
 -   📖 Plans to read [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (00:12, 26 February 2022)
 -   📺 Plans to watch [Citrus](https://anilist.co/anime/97832) (00:08, 26 February 2022)
--   📺 Watched episode 8 of [Teasing Master Takagi-san Season 3](https://anilist.co/anime/138424) (18:48, 25 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
