@@ -27,7 +27,7 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Reread chapter 6 - 31 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (19:17, 01 March 2022)
+-   📖 Reread chapter 6 - 33 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (20:21, 01 March 2022)
 -   📖 Reread chapter 1 - 5 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (15:08, 28 February 2022)
 -   📺 Watched episode 21 of [Lucky☆Star](https://anilist.co/anime/1887) (05:55, 28 February 2022)
 -   📺 Plans to watch [FLCL](https://anilist.co/anime/227) (05:55, 28 February 2022)
