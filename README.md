@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 344 of [Komi Can't Communicate](https://anilist.co/manga/97852) (14:20, 03 March 2022)
 -   📺 Completed [Lucky☆Star OVA](https://anilist.co/anime/4472) (06:04, 03 March 2022)
 -   📺 Completed [Lucky☆Star](https://anilist.co/anime/1887) (05:25, 02 March 2022)
 -   📖 Reread chapter 6 - 54 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (04:50, 02 March 2022)
 -   📖 Reread chapter 1 - 5 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (15:08, 28 February 2022)
--   📺 Watched episode 21 of [Lucky☆Star](https://anilist.co/anime/1887) (05:55, 28 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
