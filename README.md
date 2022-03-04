@@ -27,7 +27,7 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 9 of [Boku no Kanojo wa Saikou desu!](https://anilist.co/manga/100319) (21:43, 03 March 2022)
+-   📖 Read chapter 1 - 11 of [Boku no Kanojo wa Saikou desu!](https://anilist.co/manga/100319) (07:38, 04 March 2022)
 -   📖 Plans to read [Boku no Kanojo wa Saikou desu!](https://anilist.co/manga/100319) (17:41, 03 March 2022)
 -   📖 Read chapter 344 of [Komi Can't Communicate](https://anilist.co/manga/97852) (14:20, 03 March 2022)
 -   📺 Completed [Lucky☆Star OVA](https://anilist.co/anime/4472) (06:04, 03 March 2022)
