@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [A Good Librarian Like a Good Shepherd](https://anilist.co/anime/17827) (05:56, 05 March 2022)
 -   📖 Read chapter 117 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (22:59, 04 March 2022)
 -   📺 Watched episode 9 of [Teasing Master Takagi-san Season 3](https://anilist.co/anime/138424) (22:55, 04 March 2022)
 -   📖 Read chapter 1 - 11 of [Boku no Kanojo wa Saikou desu!](https://anilist.co/manga/100319) (07:38, 04 March 2022)
 -   📖 Plans to read [Boku no Kanojo wa Saikou desu!](https://anilist.co/manga/100319) (17:41, 03 March 2022)
--   📖 Read chapter 344 of [Komi Can't Communicate](https://anilist.co/manga/97852) (14:20, 03 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
