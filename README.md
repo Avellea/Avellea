@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [The Melancholy of Haruhi Suzumiya (2009)](https://anilist.co/anime/4382) (06:27, 06 March 2022)
 -   📺 Watched episode 9 of [My Dress-Up Darling](https://anilist.co/anime/132405) (20:15, 05 March 2022)
 -   📺 Watched episode 3 of [The Melancholy of Haruhi Suzumiya (2009)](https://anilist.co/anime/4382) (07:22, 05 March 2022)
 -   📺 Plans to watch [A Good Librarian Like a Good Shepherd](https://anilist.co/anime/17827) (05:56, 05 March 2022)
 -   📖 Read chapter 117 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (22:59, 04 March 2022)
--   📺 Watched episode 9 of [Teasing Master Takagi-san Season 3](https://anilist.co/anime/138424) (22:55, 04 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
