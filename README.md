@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 12 - 13 of [Boku no Kanojo wa Saikou desu!](https://anilist.co/manga/100319) (17:44, 06 March 2022)
 -   📺 Plans to watch [Adachi and Shimamura](https://anilist.co/anime/109287) (16:46, 06 March 2022)
 -   📺 Watched episode 7 of [The Melancholy of Haruhi Suzumiya (2009)](https://anilist.co/anime/4382) (06:27, 06 March 2022)
 -   📺 Watched episode 9 of [My Dress-Up Darling](https://anilist.co/anime/132405) (20:15, 05 March 2022)
 -   📺 Watched episode 3 of [The Melancholy of Haruhi Suzumiya (2009)](https://anilist.co/anime/4382) (07:22, 05 March 2022)
--   📺 Plans to watch [A Good Librarian Like a Good Shepherd](https://anilist.co/anime/17827) (05:56, 05 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
