@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 120 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:47, 09 March 2022)
 -   📺 Plans to watch [SPY x FAMILY](https://anilist.co/anime/140960) (03:13, 09 March 2022)
 -   📺 Watched episode 14 of [The Melancholy of Haruhi Suzumiya (2009)](https://anilist.co/anime/4382) (06:20, 08 March 2022)
 -   📖 Reread chapter 55 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (06:50, 07 March 2022)
 -   📺 Watched episode 9 of [The Melancholy of Haruhi Suzumiya (2009)](https://anilist.co/anime/4382) (06:06, 07 March 2022)
--   📺 Plans to watch [selector infected WIXOSS](https://anilist.co/anime/20615) (03:29, 07 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
