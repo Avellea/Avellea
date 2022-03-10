@@ -27,7 +27,7 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 18 of [The Melancholy of Haruhi Suzumiya (2009)](https://anilist.co/anime/4382) (01:12, 10 March 2022)
+-   📺 Watched episode 18 - 19 of [The Melancholy of Haruhi Suzumiya (2009)](https://anilist.co/anime/4382) (06:53, 10 March 2022)
 -   📺 Watched episode 17 of [The Melancholy of Haruhi Suzumiya (2009)](https://anilist.co/anime/4382) (06:54, 09 March 2022)
 -   📖 Read chapter 120 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:47, 09 March 2022)
 -   📺 Plans to watch [SPY x FAMILY](https://anilist.co/anime/140960) (03:13, 09 March 2022)
