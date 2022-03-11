@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [Teasing Master Takagi-san Season 3](https://anilist.co/anime/138424) (18:24, 11 March 2022)
 -   📺 Watched episode 25 of [The Melancholy of Haruhi Suzumiya (2009)](https://anilist.co/anime/4382) (06:15, 11 March 2022)
 -   📺 Plans to watch [Maid-Sama!](https://anilist.co/anime/7054) (21:07, 10 March 2022)
 -   📖 Read chapter 345 of [Komi Can't Communicate](https://anilist.co/manga/97852) (17:02, 10 March 2022)
 -   📺 Watched episode 18 - 19 of [The Melancholy of Haruhi Suzumiya (2009)](https://anilist.co/anime/4382) (06:53, 10 March 2022)
--   📺 Watched episode 17 of [The Melancholy of Haruhi Suzumiya (2009)](https://anilist.co/anime/4382) (06:54, 09 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
