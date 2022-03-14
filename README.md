@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Steins;Gate](https://anilist.co/anime/9253) (00:14, 14 March 2022)
 -   📺 Plans to watch [Steins;Gate](https://anilist.co/anime/9253) (03:11, 13 March 2022)
 -   📺 Watched episode 10 of [My Dress-Up Darling](https://anilist.co/anime/132405) (01:23, 13 March 2022)
 -   📺 Dropped [Sakura Trick](https://anilist.co/anime/20047) (05:47, 12 March 2022)
 -   📺 Watched episode 1 of [Sakura Trick](https://anilist.co/anime/20047) (05:21, 12 March 2022)
--   📺 Plans to watch [Kiss x Sis](https://anilist.co/anime/5042) (05:07, 12 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
