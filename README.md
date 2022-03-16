@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 - 8 of [Steins;Gate](https://anilist.co/anime/9253) (01:39, 16 March 2022)
 -   📖 Read chapter 346 of [Komi Can't Communicate](https://anilist.co/manga/97852) (15:18, 15 March 2022)
 -   📺 Plans to watch [Puella Magi Madoka Magica](https://anilist.co/anime/9756) (23:52, 14 March 2022)
 -   📺 Watched episode 1 - 6 of [Steins;Gate](https://anilist.co/anime/9253) (04:59, 14 March 2022)
 -   📺 Plans to watch [Steins;Gate](https://anilist.co/anime/9253) (03:11, 13 March 2022)
--   📺 Watched episode 10 of [My Dress-Up Darling](https://anilist.co/anime/132405) (01:23, 13 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
