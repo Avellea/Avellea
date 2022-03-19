@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Maken-Ki! Battling Venus](https://anilist.co/anime/9936) (19:08, 19 March 2022)
 -   📺 Watched episode 11 of [Teasing Master Takagi-san Season 3](https://anilist.co/anime/138424) (17:43, 18 March 2022)
 -   📺 Plans to watch [Aria the Scarlet Ammo](https://anilist.co/anime/8630) (15:13, 18 March 2022)
 -   📺 Watched episode 9 - 10 of [Steins;Gate](https://anilist.co/anime/9253) (17:37, 17 March 2022)
 -   📺 Plans to watch [Garakowa -Restore the World-](https://anilist.co/anime/21042) (01:05, 17 March 2022)
--   📺 Watched episode 7 - 8 of [Steins;Gate](https://anilist.co/anime/9253) (01:39, 16 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
