@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [Steins;Gate](https://anilist.co/anime/9253) (19:22, 23 March 2022)
 -   📖 Read chapter 121 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:11, 23 March 2022)
 -   📖 Read chapter 347 of [Komi Can't Communicate](https://anilist.co/manga/97852) (23:41, 22 March 2022)
 -   📖 Read chapter 137 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (00:01, 22 March 2022)
 -   📺 Watched episode 11 of [My Dress-Up Darling](https://anilist.co/anime/132405) (22:14, 19 March 2022)
--   📺 Plans to watch [Maken-Ki! Battling Venus](https://anilist.co/anime/9936) (19:08, 19 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
