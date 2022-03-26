@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [My Dress-Up Darling](https://anilist.co/anime/132405) (21:11, 26 March 2022)
 -   📺 Completed [Teasing Master Takagi-san Season 3](https://anilist.co/anime/138424) (05:40, 26 March 2022)
 -   📖 Read chapter 118 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (00:33, 26 March 2022)
 -   📺 Watched episode 14 of [Steins;Gate](https://anilist.co/anime/9253) (14:13, 25 March 2022)
 -   📺 Watched episode 13 of [Steins;Gate](https://anilist.co/anime/9253) (19:00, 24 March 2022)
--   📺 Watched episode 11 of [Steins;Gate](https://anilist.co/anime/9253) (19:22, 23 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
