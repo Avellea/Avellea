@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [Nyaruko: Crawling with Love!](https://anilist.co/anime/11785) (05:03, 29 March 2022)
 -   📺 Plans to watch [Berserk](https://anilist.co/anime/33) (20:09, 28 March 2022)
 -   📺 Completed [Steins;Gate](https://anilist.co/anime/9253) (05:07, 28 March 2022)
 -   📺 Watched episode 19 of [Steins;Gate](https://anilist.co/anime/9253) (06:02, 27 March 2022)
 -   📺 Completed [My Dress-Up Darling](https://anilist.co/anime/132405) (21:11, 26 March 2022)
--   📺 Completed [Teasing Master Takagi-san Season 3](https://anilist.co/anime/138424) (05:40, 26 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
