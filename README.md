@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Shikimori's Not Just a Cutie](https://anilist.co/anime/127911) (13:09, 30 March 2022)
 -   📺 Watched episode 1 of [Puella Magi Madoka Magica](https://anilist.co/anime/9756) (04:23, 30 March 2022)
 -   📺 Dropped 5 of [Nyaruko: Crawling with Love!](https://anilist.co/anime/11785) (04:16, 30 March 2022)
 -   📺 Watched episode 4 of [Nyaruko: Crawling with Love!](https://anilist.co/anime/11785) (05:03, 29 March 2022)
 -   📺 Plans to watch [Berserk](https://anilist.co/anime/33) (20:09, 28 March 2022)
--   📺 Completed [Steins;Gate](https://anilist.co/anime/9253) (05:07, 28 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
