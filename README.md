@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Puella Magi Madoka Magica](https://anilist.co/anime/9756) (04:38, 01 April 2022)
 -   📺 Watched episode 7 of [Puella Magi Madoka Magica](https://anilist.co/anime/9756) (05:13, 31 March 2022)
 -   📖 Read chapter 348 of [Komi Can't Communicate](https://anilist.co/manga/97852) (22:30, 30 March 2022)
 -   📺 Plans to watch [Shikimori's Not Just a Cutie](https://anilist.co/anime/127911) (13:09, 30 March 2022)
 -   📺 Watched episode 1 of [Puella Magi Madoka Magica](https://anilist.co/anime/9756) (04:23, 30 March 2022)
--   📺 Dropped 5 of [Nyaruko: Crawling with Love!](https://anilist.co/anime/11785) (04:16, 30 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
