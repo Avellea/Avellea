@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Steins;Gate 0: 23β- Divide by Zero](https://anilist.co/anime/21624) (03:38, 02 April 2022)
 -   📺 Plans to watch [Masamune-kun no Revenge R](https://anilist.co/anime/146953) (03:05, 02 April 2022)
 -   📺 Watched episode 1 of [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (17:56, 01 April 2022)
 -   📺 Completed [Puella Magi Madoka Magica](https://anilist.co/anime/9756) (04:38, 01 April 2022)
 -   📺 Watched episode 7 of [Puella Magi Madoka Magica](https://anilist.co/anime/9756) (05:13, 31 March 2022)
--   📖 Read chapter 348 of [Komi Can't Communicate](https://anilist.co/manga/97852) (22:30, 30 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
