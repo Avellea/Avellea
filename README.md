@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 35 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (00:00, 04 April 2022)
 -   📺 Plans to watch [Clannad](https://anilist.co/anime/2167) (01:55, 03 April 2022)
 -   📺 Watched episode 1 of [Steins;Gate 0](https://anilist.co/anime/21127) (04:36, 02 April 2022)
 -   📺 Completed [Steins;Gate 0: 23β- Divide by Zero](https://anilist.co/anime/21624) (03:38, 02 April 2022)
 -   📺 Plans to watch [Masamune-kun no Revenge R](https://anilist.co/anime/146953) (03:05, 02 April 2022)
--   📺 Watched episode 1 of [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (17:56, 01 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
