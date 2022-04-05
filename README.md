@@ -27,7 +27,7 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 5 of [selector infected WIXOSS](https://anilist.co/anime/20615) (04:40, 05 April 2022)
+-   📺 Watched episode 1 - 6 of [selector infected WIXOSS](https://anilist.co/anime/20615) (05:26, 05 April 2022)
 -   📖 Reread chapter 56 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (21:43, 04 April 2022)
 -   📖 Read chapter 36 - 38 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (14:23, 04 April 2022)
 -   📺 Completed [Garakowa -Restore the World-](https://anilist.co/anime/21042) (04:19, 04 April 2022)
