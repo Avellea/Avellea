@@ -37,9 +37,9 @@ Visual novel and danmaku connoisseur
 
 
 ---
-  
+<p align="center">
 <img src="https://count.getloli.com/get/@avellea?theme=rule34" alt=":name" />
-  
+<p>
 ---
 
 
