@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 40 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (13:47, 06 April 2022)
 -   📺 Plans to watch [When They Cry](https://anilist.co/anime/934) (17:45, 05 April 2022)
 -   📖 Read chapter 349 of [Komi Can't Communicate](https://anilist.co/manga/97852) (16:03, 05 April 2022)
 -   📺 Watched episode 1 - 6 of [selector infected WIXOSS](https://anilist.co/anime/20615) (05:26, 05 April 2022)
 -   📖 Reread chapter 56 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (21:43, 04 April 2022)
--   📖 Read chapter 36 - 38 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (14:23, 04 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
