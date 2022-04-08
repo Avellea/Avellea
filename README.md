@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Dropped [Steins;Gate 0](https://anilist.co/anime/21127) (01:40, 08 April 2022)
 -   📺 Watched episode 1 of [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (18:33, 07 April 2022)
 -   📺 Completed [selector infected WIXOSS](https://anilist.co/anime/20615) (06:04, 07 April 2022)
 -   📺 Watched episode 9 - 12 of [selector infected WIXOSS](https://anilist.co/anime/20615) (06:01, 07 April 2022)
 -   📖 Read chapter 40 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (13:47, 06 April 2022)
--   📺 Plans to watch [When They Cry](https://anilist.co/anime/934) (17:45, 05 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
