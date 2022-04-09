@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [Berserk](https://anilist.co/anime/33) (02:32, 09 April 2022)
 -   📺 Watched episode 1 of [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (18:12, 08 April 2022)
 -   📺 Plans to watch [Inu ni Nattara Suki na Hito ni Hirowareta.](https://anilist.co/anime/146346) (03:54, 08 April 2022)
 -   📺 Watched episode 1 - 2 of [Berserk](https://anilist.co/anime/33) (03:39, 08 April 2022)
 -   📺 Paused watching [selector spread WIXOSS](https://anilist.co/anime/20714) (02:39, 08 April 2022)
--   📺 Dropped [Steins;Gate 0](https://anilist.co/anime/21127) (01:40, 08 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
