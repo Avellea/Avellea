@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Kill Me Baby](https://anilist.co/anime/11079) (04:28, 11 April 2022)
 -   📺 Watched episode 8 - 11 of [Berserk](https://anilist.co/anime/33) (03:17, 11 April 2022)
 -   📺 Watched episode 6 of [Berserk](https://anilist.co/anime/33) (04:51, 10 April 2022)
 -   📺 Watched episode 1 of [Kill Me Baby](https://anilist.co/anime/11079) (04:50, 10 April 2022)
 -   📺 Watched episode 1 of [Shikimori's Not Just a Cutie](https://anilist.co/anime/127911) (18:30, 09 April 2022)
--   📺 Watched episode 1 of [SPY x FAMILY](https://anilist.co/anime/140960) (17:58, 09 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
