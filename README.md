@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 13 - 14 of [Berserk](https://anilist.co/anime/33) (20:04, 12 April 2022)
 -   📺 Watched episode 12 of [Berserk](https://anilist.co/anime/33) (04:01, 12 April 2022)
 -   📺 Plans to watch [The World God Only Knows](https://anilist.co/anime/8525) (03:33, 12 April 2022)
 -   📺 Plans to watch [kiss×sis (TV)](https://anilist.co/anime/7593) (03:33, 12 April 2022)
 -   📺 Plans to watch [Kodomo no Jikan](https://anilist.co/anime/2403) (03:33, 12 April 2022)
--   📺 Plans to watch [Sankarea: Undying Love](https://anilist.co/anime/11499) (03:29, 12 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
