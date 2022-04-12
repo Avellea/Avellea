@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Dropped [In The Heart of Kunoichi Tsubaki](https://anilist.co/anime/141350) (02:53, 12 April 2022)
--   📺 Watched episode 2 of [Kill Me Baby](https://anilist.co/anime/11079) (04:28, 11 April 2022)
--   📺 Watched episode 8 - 11 of [Berserk](https://anilist.co/anime/33) (03:17, 11 April 2022)
--   📺 Watched episode 6 of [Berserk](https://anilist.co/anime/33) (04:51, 10 April 2022)
--   📺 Watched episode 1 of [Kill Me Baby](https://anilist.co/anime/11079) (04:50, 10 April 2022)
+-   📺 Watched episode 12 of [Berserk](https://anilist.co/anime/33) (04:01, 12 April 2022)
+-   📺 Plans to watch [The World God Only Knows](https://anilist.co/anime/8525) (03:33, 12 April 2022)
+-   📺 Plans to watch [kiss×sis (TV)](https://anilist.co/anime/7593) (03:33, 12 April 2022)
+-   📺 Plans to watch [Kodomo no Jikan](https://anilist.co/anime/2403) (03:33, 12 April 2022)
+-   📺 Plans to watch [Sankarea: Undying Love](https://anilist.co/anime/11499) (03:29, 12 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
