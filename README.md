@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 350 of [Komi Can't Communicate](https://anilist.co/manga/97852) (17:55, 14 April 2022)
 -   📺 Watched episode 2 of [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (16:50, 14 April 2022)
 -   📺 Plans to watch [Welcome to the N-H-K](https://anilist.co/anime/1210) (14:16, 13 April 2022)
 -   📺 Watched episode 2 of [Wagnaria!!](https://anilist.co/anime/6956) (05:03, 13 April 2022)
 -   📺 Paused watching [Kill Me Baby](https://anilist.co/anime/11079) (04:00, 13 April 2022)
--   📺 Watched episode 13 - 19 of [Berserk](https://anilist.co/anime/33) (03:43, 13 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
