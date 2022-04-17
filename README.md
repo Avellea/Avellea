@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 of [Wagnaria!!](https://anilist.co/anime/6956) (05:07, 17 April 2022)
 -   📺 Watched episode 2 of [Shikimori's Not Just a Cutie](https://anilist.co/anime/127911) (17:07, 16 April 2022)
 -   📺 Watched episode 2 of [SPY x FAMILY](https://anilist.co/anime/140960) (16:48, 16 April 2022)
 -   📺 Watched episode 7 of [Wagnaria!!](https://anilist.co/anime/6956) (05:32, 16 April 2022)
 -   📺 Watched episode 3 of [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (18:29, 15 April 2022)
--   📺 Watched episode 2 of [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (17:57, 15 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
