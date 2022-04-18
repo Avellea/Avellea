@@ -39,7 +39,7 @@ Visual novel and danmaku connoisseur
 ---
   
 <p align="center">
-<img src="https://count.getloli.com/get/@avellea?theme=gelbooru" alt=":name" />
+<img src="https://moe-counter.avellea.repl.co/get/@avellea?theme=gelbooru" alt=":name" />
 <p>
   
 ---
