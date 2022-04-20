@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [Wagnaria!!](https://anilist.co/anime/6956) (05:48, 20 April 2022)
 -   📺 Plans to watch [Kamisama Kiss](https://anilist.co/anime/14713) (04:58, 20 April 2022)
 -   📺 Completed [Berserk](https://anilist.co/anime/33) (01:47, 18 April 2022)
 -   📺 Watched episode 20 - 21 of [Berserk](https://anilist.co/anime/33) (00:39, 18 April 2022)
 -   📺 Watched episode 8 of [Wagnaria!!](https://anilist.co/anime/6956) (05:07, 17 April 2022)
--   📺 Watched episode 2 of [Shikimori's Not Just a Cutie](https://anilist.co/anime/127911) (17:07, 16 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
