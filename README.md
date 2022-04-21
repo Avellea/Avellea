@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Wotakoi: Love is Hard for Otaku](https://anilist.co/anime/99578) (04:17, 21 April 2022)
 -   📖 Read chapter 122 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (14:11, 20 April 2022)
 -   📺 Watched episode 10 of [Wagnaria!!](https://anilist.co/anime/6956) (05:48, 20 April 2022)
 -   📺 Plans to watch [Kamisama Kiss](https://anilist.co/anime/14713) (04:58, 20 April 2022)
 -   📺 Completed [Berserk](https://anilist.co/anime/33) (01:47, 18 April 2022)
--   📺 Watched episode 20 - 21 of [Berserk](https://anilist.co/anime/33) (00:39, 18 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
