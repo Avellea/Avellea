@@ -27,7 +27,7 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 5 of [Wagnaria!! 2](https://anilist.co/anime/10521) (05:56, 22 April 2022)
+-   📺 Watched episode 1 - 6 of [Wagnaria!! 2](https://anilist.co/anime/10521) (06:17, 22 April 2022)
 -   📺 Watched episode 3 of [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (20:17, 21 April 2022)
 -   📺 Completed [Wagnaria!!](https://anilist.co/anime/6956) (18:45, 21 April 2022)
 -   📖 Read chapter 351 of [Komi Can't Communicate](https://anilist.co/manga/97852) (13:30, 21 April 2022)
