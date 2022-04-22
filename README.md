@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Wagnaria!! 2](https://anilist.co/anime/10521) (01:05, 22 April 2022)
 -   📺 Watched episode 3 of [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (20:17, 21 April 2022)
 -   📺 Completed [Wagnaria!!](https://anilist.co/anime/6956) (18:45, 21 April 2022)
 -   📖 Read chapter 351 of [Komi Can't Communicate](https://anilist.co/manga/97852) (13:30, 21 April 2022)
 -   📺 Watched episode 13 of [Wagnaria!!](https://anilist.co/anime/6956) (06:16, 21 April 2022)
--   📺 Plans to watch [Wotakoi: Love is Hard for Otaku](https://anilist.co/anime/99578) (04:17, 21 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
