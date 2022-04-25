@@ -27,7 +27,7 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 4 of [Wagnaria!!3](https://anilist.co/anime/20819) (22:05, 24 April 2022)
+-   📺 Watched episode 4 - 6 of [Wagnaria!!3](https://anilist.co/anime/20819) (04:51, 25 April 2022)
 -   📺 Watched episode 2 of [Wagnaria!!3](https://anilist.co/anime/20819) (04:23, 24 April 2022)
 -   📺 Completed [Wagnaria!! 2](https://anilist.co/anime/10521) (04:23, 24 April 2022)
 -   📖 Completed [Goodbye, Eri](https://anilist.co/manga/146983) (21:22, 23 April 2022)
