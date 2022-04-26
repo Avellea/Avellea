@@ -27,7 +27,7 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 9 of [Wagnaria!!3](https://anilist.co/anime/20819) (03:21, 26 April 2022)
+-   📺 Watched episode 9 - 13 of [Wagnaria!!3](https://anilist.co/anime/20819) (05:27, 26 April 2022)
 -   📖 Read chapter 41 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (14:10, 25 April 2022)
 -   📺 Watched episode 4 - 8 of [Wagnaria!!3](https://anilist.co/anime/20819) (05:46, 25 April 2022)
 -   📺 Watched episode 2 of [Wagnaria!!3](https://anilist.co/anime/20819) (04:23, 24 April 2022)
