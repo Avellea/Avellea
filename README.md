@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (05:50, 27 April 2022)
+-   📺 Plans to watch [Kamisama Kiss](https://anilist.co/anime/14713) (05:25, 27 April 2022)
+-   📺 Completed [Wagnaria!!3: Lord of the Takanashi](https://anilist.co/anime/21384) (05:24, 27 April 2022)
 -   📺 Completed [Wagnaria!!3](https://anilist.co/anime/20819) (13:22, 26 April 2022)
 -   📺 Watched episode 9 - 13 of [Wagnaria!!3](https://anilist.co/anime/20819) (05:27, 26 April 2022)
--   📖 Read chapter 41 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (14:10, 25 April 2022)
--   📺 Watched episode 4 - 8 of [Wagnaria!!3](https://anilist.co/anime/20819) (05:46, 25 April 2022)
--   📺 Watched episode 2 of [Wagnaria!!3](https://anilist.co/anime/20819) (04:23, 24 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
