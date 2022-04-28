@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (05:54, 28 April 2022)
 -   📖 Plans to read [Sora no Shita Yane no Naka](https://anilist.co/manga/48242) (15:53, 27 April 2022)
 -   📺 Plans to watch [Serial Experiments Lain](https://anilist.co/anime/339) (15:51, 27 April 2022)
 -   📺 Plans to watch [Katanagatari](https://anilist.co/anime/6594) (15:46, 27 April 2022)
 -   📺 Plans to watch [The Disappearance of Haruhi Suzumiya](https://anilist.co/anime/7311) (15:44, 27 April 2022)
--   📺 Watched episode 1 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (05:50, 27 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
