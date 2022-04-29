@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 57 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (06:00, 29 April 2022)
 -   📺 Watched episode 4 of [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (16:25, 28 April 2022)
 -   📺 Watched episode 3 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (05:54, 28 April 2022)
 -   📖 Plans to read [Sora no Shita Yane no Naka](https://anilist.co/manga/48242) (15:53, 27 April 2022)
 -   📺 Plans to watch [Serial Experiments Lain](https://anilist.co/anime/339) (15:51, 27 April 2022)
--   📺 Plans to watch [Katanagatari](https://anilist.co/anime/6594) (15:46, 27 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
