@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (04:48, 01 May 2022)
 -   📺 Watched episode 4 of [SPY x FAMILY](https://anilist.co/anime/140960) (18:23, 30 April 2022)
 -   📺 Watched episode 5 of [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (06:29, 30 April 2022)
 -   📺 Watched episode 5 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (06:25, 30 April 2022)
 -   📺 Watched episode 4 of [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (18:10, 29 April 2022)
--   📖 Read chapter 57 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (06:00, 29 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
