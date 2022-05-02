@@ -27,7 +27,7 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 9 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (04:36, 02 May 2022)
+-   📺 Watched episode 9 - 11 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (05:20, 02 May 2022)
 -   📖 Plans to read [【OSHI NO KO】](https://anilist.co/manga/117195) (12:10, 01 May 2022)
 -   📺 Watched episode 8 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (04:48, 01 May 2022)
 -   📺 Watched episode 4 of [SPY x FAMILY](https://anilist.co/anime/140960) (18:23, 30 April 2022)
