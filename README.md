@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Cat Planet Cuties](https://anilist.co/anime/6166) (22:19, 05 May 2022)
 -   📺 Watched episode 17 - 21 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (04:42, 05 May 2022)
 -   📺 Watched episode 16 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (06:03, 04 May 2022)
 -   📺 Watched episode 12 - 15 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (05:35, 03 May 2022)
 -   📖 Read chapter 352 - 353 of [Komi Can't Communicate](https://anilist.co/manga/97852) (21:05, 02 May 2022)
--   📺 Watched episode 9 - 11 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (05:20, 02 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
