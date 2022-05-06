@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (19:12, 06 May 2022)
+-   📺 Watched episode 5 of [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (19:12, 06 May 2022)
 -   📺 Watched episode 5 of [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (06:14, 06 May 2022)
 -   📺 Plans to watch [Cat Planet Cuties](https://anilist.co/anime/6166) (22:19, 05 May 2022)
 -   📺 Watched episode 17 - 21 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (04:42, 05 May 2022)
--   📺 Watched episode 16 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (06:03, 04 May 2022)
--   📺 Watched episode 12 - 15 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (05:35, 03 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
