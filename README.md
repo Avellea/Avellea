@@ -36,13 +36,13 @@ Visual novel and danmaku connoisseur
 <!-- ANILIST_ACTIVITY:end -->
 
 
----
+<!-- ---
   
 <p align="center">
 <img src="https://count.getloli.com/get/@avellea?theme=gelbooru" alt=":name" />
 <p>
   
----
+--- -->
 
 
 
