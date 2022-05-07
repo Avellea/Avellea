@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3 - 6 of [Yotsuba&!](https://anilist.co/manga/30104) (17:30, 07 May 2022)
 -   📺 Completed [Welcome to the N-H-K](https://anilist.co/anime/1210) (06:22, 07 May 2022)
 -   📺 Watched episode 24 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (04:55, 07 May 2022)
 -   📺 Watched episode 6 of [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (19:12, 06 May 2022)
 -   📺 Watched episode 5 of [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (19:12, 06 May 2022)
--   📺 Watched episode 5 of [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (06:14, 06 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
