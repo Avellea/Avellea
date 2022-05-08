@@ -27,7 +27,7 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 - 21 of [Yotsuba&!](https://anilist.co/manga/30104) (15:13, 08 May 2022)
+-   📖 Read chapter 3 - 22 of [Yotsuba&!](https://anilist.co/manga/30104) (18:18, 08 May 2022)
 -   📺 Watched episode 1 of [Serial Experiments Lain](https://anilist.co/anime/339) (04:43, 08 May 2022)
 -   📺 Plans to watch [Azumanga Daioh](https://anilist.co/anime/66) (21:27, 07 May 2022)
 -   📺 Watched episode 5 of [SPY x FAMILY](https://anilist.co/anime/140960) (20:40, 07 May 2022)
