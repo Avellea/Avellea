@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 - 12 of [Yotsuba&!](https://anilist.co/manga/30104) (23:07, 07 May 2022)
+-   📖 Read chapter 3 - 14 of [Yotsuba&!](https://anilist.co/manga/30104) (04:58, 08 May 2022)
+-   📺 Watched episode 1 of [Serial Experiments Lain](https://anilist.co/anime/339) (04:43, 08 May 2022)
 -   📺 Plans to watch [Azumanga Daioh](https://anilist.co/anime/66) (21:27, 07 May 2022)
 -   📺 Watched episode 5 of [SPY x FAMILY](https://anilist.co/anime/140960) (20:40, 07 May 2022)
 -   📺 Completed [Welcome to the N-H-K](https://anilist.co/anime/1210) (06:22, 07 May 2022)
--   📺 Watched episode 24 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (04:55, 07 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
