@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [Serial Experiments Lain](https://anilist.co/anime/339) (22:08, 10 May 2022)
 -   📺 Watched episode 2 of [Serial Experiments Lain](https://anilist.co/anime/339) (04:08, 10 May 2022)
 -   📺 Completed [Bakemonogatari PV](https://anilist.co/anime/143663) (02:05, 09 May 2022)
 -   📖 Read chapter 3 - 22 of [Yotsuba&!](https://anilist.co/manga/30104) (18:18, 08 May 2022)
 -   📺 Watched episode 1 of [Serial Experiments Lain](https://anilist.co/anime/339) (04:43, 08 May 2022)
--   📺 Plans to watch [Azumanga Daioh](https://anilist.co/anime/66) (21:27, 07 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
