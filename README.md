@@ -27,7 +27,7 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 4 - 6 of [Serial Experiments Lain](https://anilist.co/anime/339) (16:11, 11 May 2022)
+-   📺 Watched episode 4 - 7 of [Serial Experiments Lain](https://anilist.co/anime/339) (17:35, 11 May 2022)
 -   📖 Read chapter 354 of [Komi Can't Communicate](https://anilist.co/manga/97852) (15:06, 11 May 2022)
 -   📺 Watched episode 2 of [Serial Experiments Lain](https://anilist.co/anime/339) (04:08, 10 May 2022)
 -   📺 Completed [Bakemonogatari PV](https://anilist.co/anime/143663) (02:05, 09 May 2022)
