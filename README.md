@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 23 of [Yotsuba&!](https://anilist.co/manga/30104) (15:19, 12 May 2022)
 -   📺 Watched episode 4 - 8 of [Serial Experiments Lain](https://anilist.co/anime/339) (05:05, 12 May 2022)
 -   📖 Read chapter 354 of [Komi Can't Communicate](https://anilist.co/manga/97852) (15:06, 11 May 2022)
 -   📺 Watched episode 2 of [Serial Experiments Lain](https://anilist.co/anime/339) (04:08, 10 May 2022)
 -   📺 Completed [Bakemonogatari PV](https://anilist.co/anime/143663) (02:05, 09 May 2022)
--   📖 Read chapter 3 - 22 of [Yotsuba&!](https://anilist.co/manga/30104) (18:18, 08 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
