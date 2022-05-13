@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [Serial Experiments Lain](https://anilist.co/anime/339) (21:20, 13 May 2022)
 -   📺 Watched episode 6 of [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (18:26, 13 May 2022)
 -   📺 Watched episode 9 of [Serial Experiments Lain](https://anilist.co/anime/339) (05:47, 13 May 2022)
 -   📖 Read chapter 23 of [Yotsuba&!](https://anilist.co/manga/30104) (15:19, 12 May 2022)
 -   📺 Watched episode 4 - 8 of [Serial Experiments Lain](https://anilist.co/anime/339) (05:05, 12 May 2022)
--   📖 Read chapter 354 of [Komi Can't Communicate](https://anilist.co/manga/97852) (15:06, 11 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
