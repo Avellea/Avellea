@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [SPY x FAMILY](https://anilist.co/anime/140960) (17:09, 14 May 2022)
 -   📺 Watched episode 7 of [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (05:04, 14 May 2022)
 -   📺 Plans to watch [Devilman Crybaby](https://anilist.co/anime/98460) (02:37, 14 May 2022)
 -   📺 Watched episode 10 of [Serial Experiments Lain](https://anilist.co/anime/339) (21:20, 13 May 2022)
 -   📺 Watched episode 6 of [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (18:26, 13 May 2022)
--   📺 Watched episode 9 of [Serial Experiments Lain](https://anilist.co/anime/339) (05:47, 13 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
