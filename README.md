@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Serial Experiments Lain](https://anilist.co/anime/339) (03:47, 17 May 2022)
+-   📺 Watched episode 13 of [Serial Experiments Lain](https://anilist.co/anime/339) (03:47, 17 May 2022)
 -   📺 Watched episode 6 of [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (23:09, 16 May 2022)
 -   📺 Watched episode 11 of [Serial Experiments Lain](https://anilist.co/anime/339) (00:45, 15 May 2022)
 -   📺 Watched episode 6 of [SPY x FAMILY](https://anilist.co/anime/140960) (17:09, 14 May 2022)
--   📺 Watched episode 7 of [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (05:04, 14 May 2022)
--   📺 Plans to watch [Devilman Crybaby](https://anilist.co/anime/98460) (02:37, 14 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
