@@ -27,7 +27,7 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 24 - 27 of [Yotsuba&!](https://anilist.co/manga/30104) (17:14, 18 May 2022)
+-   📖 Read chapter 24 - 28 of [Yotsuba&!](https://anilist.co/manga/30104) (17:22, 18 May 2022)
 -   📺 Completed [Serial Experiments Lain](https://anilist.co/anime/339) (03:47, 17 May 2022)
 -   📺 Watched episode 13 of [Serial Experiments Lain](https://anilist.co/anime/339) (03:47, 17 May 2022)
 -   📺 Watched episode 6 of [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (23:09, 16 May 2022)
