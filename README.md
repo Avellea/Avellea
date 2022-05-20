@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Tokyo Mew Mew](https://anilist.co/anime/687) (18:50, 20 May 2022)
 -   📺 Plans to watch [5-Toubun no Hanayome Movie](https://anilist.co/anime/131520) (15:38, 20 May 2022)
 -   📺 Watched episode 1 of [Kannagi: Crazy Shrine Maidens](https://anilist.co/anime/3958) (04:40, 19 May 2022)
 -   📖 Read chapter 24 - 28 of [Yotsuba&!](https://anilist.co/manga/30104) (17:22, 18 May 2022)
 -   📺 Completed [Serial Experiments Lain](https://anilist.co/anime/339) (03:47, 17 May 2022)
--   📺 Watched episode 13 of [Serial Experiments Lain](https://anilist.co/anime/339) (03:47, 17 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
