@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Dekiru Neko wa Kyou mo Yuuutsu](https://anilist.co/anime/149883) (16:10, 25 May 2022)
 -   📺 Watched episode 2 of [Kannagi: Crazy Shrine Maidens](https://anilist.co/anime/3958) (03:44, 24 May 2022)
 -   📺 Watched episode 7 of [SPY x FAMILY](https://anilist.co/anime/140960) (04:29, 22 May 2022)
 -   📺 Watched episode 8 of [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (04:36, 21 May 2022)
 -   📺 Watched episode 7 of [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (04:36, 21 May 2022)
--   📺 Watched episode 7 of [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (04:36, 21 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
