@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 58 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (04:40, 01 June 2022)
 -   📖 Read chapter 124 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:23, 31 May 2022)
 -   📖 Read chapter 355 - 357 of [Komi Can't Communicate](https://anilist.co/manga/97852) (06:19, 31 May 2022)
 -   📺 Plans to watch [Samurai Champloo](https://anilist.co/anime/205) (05:55, 31 May 2022)
 -   📺 Watched episode 8 of [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (14:43, 29 May 2022)
--   📺 Watched episode 8 of [SPY x FAMILY](https://anilist.co/anime/140960) (14:43, 29 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
