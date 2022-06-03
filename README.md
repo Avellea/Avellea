@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [The Demon Girl Next Door](https://anilist.co/anime/107490) (16:31, 03 June 2022)
+-   📺 Plans to watch [Mahoutsukai no Yoru](https://anilist.co/anime/143103) (16:27, 03 June 2022)
 -   📖 Read chapter 358 of [Komi Can't Communicate](https://anilist.co/manga/97852) (15:10, 03 June 2022)
 -   📖 Read chapter 58 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (04:40, 01 June 2022)
 -   📖 Read chapter 124 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:23, 31 May 2022)
--   📖 Read chapter 355 - 357 of [Komi Can't Communicate](https://anilist.co/manga/97852) (06:19, 31 May 2022)
--   📺 Plans to watch [Samurai Champloo](https://anilist.co/anime/205) (05:55, 31 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
