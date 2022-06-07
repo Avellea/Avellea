@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Mob Psycho 100](https://anilist.co/anime/21507) (06:42, 07 June 2022)
+-   📺 Plans to watch [Saga of Tanya the Evil](https://anilist.co/anime/21613) (06:38, 07 June 2022)
+-   📺 Plans to watch [Tenjho Tenge](https://anilist.co/anime/174) (06:38, 07 June 2022)
 -   📺 Watched episode 9 of [SPY x FAMILY](https://anilist.co/anime/140960) (20:07, 05 June 2022)
 -   📺 Watched episode 3 of [Kannagi: Crazy Shrine Maidens](https://anilist.co/anime/3958) (17:43, 04 June 2022)
--   📺 Watched episode 9 of [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (18:23, 03 June 2022)
--   📺 Watched episode 9 of [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (18:23, 03 June 2022)
--   📺 Plans to watch [The Demon Girl Next Door](https://anilist.co/anime/107490) (16:31, 03 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
