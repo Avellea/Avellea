@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 7 - 8 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (15:55, 11 June 2022)
+-   📖 Read chapter 359 of [Komi Can't Communicate](https://anilist.co/manga/97852) (15:43, 11 June 2022)
 -   📺 Watched episode 4 of [Kannagi: Crazy Shrine Maidens](https://anilist.co/anime/3958) (05:16, 11 June 2022)
 -   📺 Watched episode 10 of [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (04:57, 11 June 2022)
 -   📖 Dropped [Giant Ojou-sama](https://anilist.co/manga/140569) (23:19, 09 June 2022)
--   📖 Plans to read [Giant Ojou-sama](https://anilist.co/manga/140569) (23:19, 09 June 2022)
--   📺 Plans to watch [[Oshi no Ko]](https://anilist.co/anime/150672) (23:03, 09 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
