@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (04:57, 11 June 2022)
 -   📖 Dropped [Giant Ojou-sama](https://anilist.co/manga/140569) (23:19, 09 June 2022)
 -   📖 Plans to read [Giant Ojou-sama](https://anilist.co/manga/140569) (23:19, 09 June 2022)
 -   📺 Plans to watch [[Oshi no Ko]](https://anilist.co/anime/150672) (23:03, 09 June 2022)
 -   📺 Plans to watch [Bakuon!!](https://anilist.co/anime/21197) (22:09, 09 June 2022)
--   📺 Plans to watch [Mob Psycho 100](https://anilist.co/anime/21507) (06:42, 07 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
