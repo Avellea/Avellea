@@ -27,7 +27,7 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 19 - 23 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (18:05, 12 June 2022)
+-   📖 Read chapter 19 - 33 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (18:28, 12 June 2022)
 -   📖 Read chapter 7 - 18 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (17:04, 11 June 2022)
 -   📖 Read chapter 359 of [Komi Can't Communicate](https://anilist.co/manga/97852) (15:43, 11 June 2022)
 -   📺 Watched episode 4 of [Kannagi: Crazy Shrine Maidens](https://anilist.co/anime/3958) (05:16, 11 June 2022)
