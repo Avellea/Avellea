@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Kannagi: Crazy Shrine Maidens](https://anilist.co/anime/3958) (05:41, 16 June 2022)
 -   📺 Watched episode 5 of [Kannagi: Crazy Shrine Maidens](https://anilist.co/anime/3958) (05:44, 15 June 2022)
 -   📖 Read chapter 125 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (18:48, 14 June 2022)
 -   📺 Watched episode 10 of [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (06:11, 13 June 2022)
 -   📺 Watched episode 10 of [SPY x FAMILY](https://anilist.co/anime/140960) (06:11, 13 June 2022)
--   📖 Read chapter 19 - 33 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (18:28, 12 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
