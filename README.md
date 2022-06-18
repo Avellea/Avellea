@@ -27,8 +27,8 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 - 11 of [Kannagi: Crazy Shrine Maidens](https://anilist.co/anime/3958) (18:58, 18 June 2022)
 -   📺 Plans to watch [Kubo-san wa Mob wo Yurusanai](https://anilist.co/anime/148969) (17:59, 18 June 2022)
--   📺 Watched episode 8 of [Kannagi: Crazy Shrine Maidens](https://anilist.co/anime/3958) (17:58, 18 June 2022)
 -   📺 Watched episode 11 of [SPY x FAMILY](https://anilist.co/anime/140960) (16:47, 18 June 2022)
 -   📺 Plans to watch [SPY x FAMILY Part 2](https://anilist.co/anime/142838) (03:52, 18 June 2022)
 -   📺 Watched episode 11 of [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (18:08, 17 June 2022)
