@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 126 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:56, 20 June 2022)
 -   📺 Completed [Kannagi: Crazy Shrine Maidens](https://anilist.co/anime/3958) (00:55, 19 June 2022)
 -   📺 Watched episode 8 - 13 of [Kannagi: Crazy Shrine Maidens](https://anilist.co/anime/3958) (00:55, 19 June 2022)
 -   📺 Plans to watch [Kubo-san wa Mob wo Yurusanai](https://anilist.co/anime/148969) (17:59, 18 June 2022)
 -   📺 Watched episode 11 of [SPY x FAMILY](https://anilist.co/anime/140960) (16:47, 18 June 2022)
--   📺 Plans to watch [SPY x FAMILY Part 2](https://anilist.co/anime/142838) (03:52, 18 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
