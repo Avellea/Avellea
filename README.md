@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Azumanga Daioh](https://anilist.co/anime/66) (18:09, 22 June 2022)
+-   📺 Plans to watch [Squid Girl](https://anilist.co/anime/8557) (20:44, 22 June 2022)
+-   📺 Plans to watch [Hidamari Sketch](https://anilist.co/anime/1852) (20:43, 22 June 2022)
+-   📺 Watched episode 1 - 2 of [Azumanga Daioh](https://anilist.co/anime/66) (20:40, 22 June 2022)
 -   📖 Read chapter 126 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:56, 20 June 2022)
 -   📺 Completed [Kannagi: Crazy Shrine Maidens](https://anilist.co/anime/3958) (00:55, 19 June 2022)
--   📺 Watched episode 8 - 13 of [Kannagi: Crazy Shrine Maidens](https://anilist.co/anime/3958) (00:55, 19 June 2022)
--   📺 Plans to watch [Kubo-san wa Mob wo Yurusanai](https://anilist.co/anime/148969) (17:59, 18 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
