@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (04:34, 25 June 2022)
+-   📺 Watched episode 12 of [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (04:33, 25 June 2022)
 -   📺 Watched episode 3 of [Azumanga Daioh](https://anilist.co/anime/66) (05:10, 24 June 2022)
 -   📺 Plans to watch [Squid Girl](https://anilist.co/anime/8557) (20:44, 22 June 2022)
 -   📺 Plans to watch [Hidamari Sketch](https://anilist.co/anime/1852) (20:43, 22 June 2022)
--   📺 Watched episode 1 - 2 of [Azumanga Daioh](https://anilist.co/anime/66) (20:40, 22 June 2022)
--   📖 Read chapter 126 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (05:56, 20 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
