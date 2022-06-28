@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [SPY x FAMILY](https://anilist.co/anime/140960) (05:16, 28 June 2022)
 -   📺 Plans to watch [The Maid I Hired Recently is Mysterious](https://anilist.co/anime/149326) (21:01, 26 June 2022)
 -   📺 Plans to watch [Akiba Maid Sensou](https://anilist.co/anime/151379) (00:44, 26 June 2022)
 -   📺 Completed [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (04:34, 25 June 2022)
 -   📺 Watched episode 12 of [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (04:33, 25 June 2022)
--   📺 Watched episode 3 of [Azumanga Daioh](https://anilist.co/anime/66) (05:10, 24 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
