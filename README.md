@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [When Will Ayumu Make His Move?](https://anilist.co/anime/128223) (06:53, 29 June 2022)
+-   📺 Plans to watch [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (06:52, 29 June 2022)
 -   📺 Completed [SPY x FAMILY](https://anilist.co/anime/140960) (05:16, 28 June 2022)
 -   📺 Plans to watch [The Maid I Hired Recently is Mysterious](https://anilist.co/anime/149326) (21:01, 26 June 2022)
 -   📺 Plans to watch [Akiba Maid Sensou](https://anilist.co/anime/151379) (00:44, 26 June 2022)
--   📺 Completed [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (04:34, 25 June 2022)
--   📺 Watched episode 12 of [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (04:33, 25 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
