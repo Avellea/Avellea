@@ -27,7 +27,7 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 4 of [Azumanga Daioh](https://anilist.co/anime/66) (04:11, 30 June 2022)
+-   📺 Watched episode 4 - 5 of [Azumanga Daioh](https://anilist.co/anime/66) (04:35, 30 June 2022)
 -   📺 Plans to watch [Kaguya-sama wa Kokurasetai (Shinsaku Anime)](https://anilist.co/anime/151384) (01:55, 30 June 2022)
 -   📺 Plans to watch [When Will Ayumu Make His Move?](https://anilist.co/anime/128223) (06:53, 29 June 2022)
 -   📺 Plans to watch [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (06:52, 29 June 2022)
