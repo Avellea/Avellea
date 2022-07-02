@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (02:30, 02 July 2022)
 -   📖 Read chapter 29 - 31 of [Yotsuba&!](https://anilist.co/manga/30104) (23:06, 01 July 2022)
 -   📖 Read chapter 361 of [Komi Can't Communicate](https://anilist.co/manga/97852) (20:14, 01 July 2022)
 -   📺 Plans to watch [TOKYO MEW MEW NEW](https://anilist.co/anime/117196) (23:16, 30 June 2022)
 -   📺 Watched episode 4 - 5 of [Azumanga Daioh](https://anilist.co/anime/66) (04:35, 30 June 2022)
--   📺 Plans to watch [Kaguya-sama wa Kokurasetai (Shinsaku Anime)](https://anilist.co/anime/151384) (01:55, 30 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
