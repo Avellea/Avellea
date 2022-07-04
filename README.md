@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 59 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (15:22, 04 July 2022)
 -   📺 Plans to watch [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (01:35, 04 July 2022)
 -   📖 Read chapter 32 of [Yotsuba&!](https://anilist.co/manga/30104) (01:44, 03 July 2022)
 -   📖 Plans to read [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (21:26, 02 July 2022)
 -   📺 Watched episode 1 of [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (02:30, 02 July 2022)
--   📖 Read chapter 29 - 31 of [Yotsuba&!](https://anilist.co/manga/30104) (23:06, 01 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
