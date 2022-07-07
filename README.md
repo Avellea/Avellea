@@ -27,7 +27,7 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Ore wa Onnanoko ni Naranai](https://anilist.co/manga/144725) (14:06, 07 July 2022)
+-   📖 Read chapter 1 - 10 of [Ore wa Onnanoko ni Naranai](https://anilist.co/manga/144725) (14:12, 07 July 2022)
 -   📖 Plans to read [Ore wa Onnanoko ni Naranai](https://anilist.co/manga/144725) (14:06, 07 July 2022)
 -   📺 Dropped [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (13:56, 07 July 2022)
 -   📖 Read chapter 9 of [Seinaru Ken to TS Ganbou Yuusha](https://anilist.co/manga/110997) (13:43, 07 July 2022)
