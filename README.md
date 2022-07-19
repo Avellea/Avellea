@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Dropped [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (02:18, 19 July 2022)
+-   📺 Plans to watch [I Want to Eat Your Pancreas](https://anilist.co/anime/99750) (02:16, 19 July 2022)
+-   📺 Plans to watch [Paranoia Agent](https://anilist.co/anime/323) (02:14, 19 July 2022)
 -   📖 Read chapter 42 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (13:52, 13 July 2022)
 -   📖 Read chapter 1 - 10 of [Ore wa Onnanoko ni Naranai](https://anilist.co/manga/144725) (14:12, 07 July 2022)
--   📖 Plans to read [Ore wa Onnanoko ni Naranai](https://anilist.co/manga/144725) (14:06, 07 July 2022)
--   📺 Dropped [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (13:56, 07 July 2022)
--   📖 Read chapter 9 of [Seinaru Ken to TS Ganbou Yuusha](https://anilist.co/manga/110997) (13:43, 07 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
