@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [Azumanga Daioh](https://anilist.co/anime/66) (04:16, 22 July 2022)
 -   📺 Watched episode 7 of [Azumanga Daioh](https://anilist.co/anime/66) (00:31, 21 July 2022)
 -   📺 Dropped [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (02:18, 19 July 2022)
 -   📺 Plans to watch [I Want to Eat Your Pancreas](https://anilist.co/anime/99750) (02:16, 19 July 2022)
 -   📺 Plans to watch [Paranoia Agent](https://anilist.co/anime/323) (02:14, 19 July 2022)
--   📖 Read chapter 42 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (13:52, 13 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
