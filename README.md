@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 19 of [Azumanga Daioh](https://anilist.co/anime/66) (02:49, 04 August 2022)
 -   📺 Watched episode 12 of [Azumanga Daioh](https://anilist.co/anime/66) (05:40, 29 July 2022)
 -   📺 Watched episode 11 of [Azumanga Daioh](https://anilist.co/anime/66) (01:37, 28 July 2022)
 -   📺 Watched episode 9 of [Azumanga Daioh](https://anilist.co/anime/66) (04:16, 22 July 2022)
 -   📺 Watched episode 7 of [Azumanga Daioh](https://anilist.co/anime/66) (00:31, 21 July 2022)
--   📺 Dropped [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (02:18, 19 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
