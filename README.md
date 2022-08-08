@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 24 of [Azumanga Daioh](https://anilist.co/anime/66) (00:06, 08 August 2022)
 -   📺 Plans to watch [Chobits](https://anilist.co/anime/59) (00:43, 07 August 2022)
 -   📺 Plans to watch [Fruits Basket](https://anilist.co/anime/120) (00:39, 07 August 2022)
 -   📺 Watched episode 23 of [Azumanga Daioh](https://anilist.co/anime/66) (04:11, 06 August 2022)
 -   📺 Watched episode 20 of [Azumanga Daioh](https://anilist.co/anime/66) (05:27, 05 August 2022)
--   📺 Watched episode 19 of [Azumanga Daioh](https://anilist.co/anime/66) (02:49, 04 August 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
