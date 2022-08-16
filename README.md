@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Chobits](https://anilist.co/anime/59) (04:50, 16 August 2022)
 -   📺 Plans to watch [Sayonara Zetsubou Sensei](https://anilist.co/anime/2605) (03:50, 16 August 2022)
 -   📖 Read chapter 4 of [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (14:29, 14 August 2022)
 -   📖 Plans to read [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (14:27, 14 August 2022)
 -   📺 Watched episode 1 of [Chobits](https://anilist.co/anime/59) (03:00, 08 August 2022)
--   📺 Paused watching [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (02:59, 08 August 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
