@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 273 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (20:56, 21 August 2022)
 -   📖 Read chapter 33 of [Yotsuba&!](https://anilist.co/manga/30104) (22:08, 18 August 2022)
 -   📺 Watched episode 6 of [Chobits](https://anilist.co/anime/59) (02:28, 17 August 2022)
 -   📺 Watched episode 2 - 3 of [Chobits](https://anilist.co/anime/59) (05:16, 16 August 2022)
 -   📺 Plans to watch [Sayonara Zetsubou Sensei](https://anilist.co/anime/2605) (03:50, 16 August 2022)
--   📖 Read chapter 4 of [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (14:29, 14 August 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
