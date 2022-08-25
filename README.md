@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 12 of [Chobits](https://anilist.co/anime/59) (03:02, 25 August 2022)
 -   📺 Watched episode 9 of [Chobits](https://anilist.co/anime/59) (03:03, 22 August 2022)
 -   📖 Read chapter 273 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (20:56, 21 August 2022)
 -   📖 Read chapter 33 of [Yotsuba&!](https://anilist.co/manga/30104) (22:08, 18 August 2022)
 -   📺 Watched episode 6 of [Chobits](https://anilist.co/anime/59) (02:28, 17 August 2022)
--   📺 Watched episode 2 - 3 of [Chobits](https://anilist.co/anime/59) (05:16, 16 August 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
