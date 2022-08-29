@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Dropped [Chobits](https://anilist.co/anime/59) (02:14, 29 August 2022)
 -   📖 Read chapter 60 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (17:32, 28 August 2022)
 -   📺 Watched episode 13 of [Chobits](https://anilist.co/anime/59) (04:50, 26 August 2022)
 -   📺 Watched episode 12 of [Chobits](https://anilist.co/anime/59) (03:02, 25 August 2022)
 -   📺 Watched episode 9 of [Chobits](https://anilist.co/anime/59) (03:03, 22 August 2022)
--   📖 Read chapter 273 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (20:56, 21 August 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
