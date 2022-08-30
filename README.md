@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Tsugu Tsugumomo Mini Anime](https://anilist.co/anime/154175) (18:51, 30 August 2022)
 -   📺 Watched episode 19 of [Kill la Kill](https://anilist.co/anime/18679) (05:38, 29 August 2022)
 -   📺 Dropped [Chobits](https://anilist.co/anime/59) (02:14, 29 August 2022)
 -   📖 Read chapter 60 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (17:32, 28 August 2022)
 -   📺 Watched episode 13 of [Chobits](https://anilist.co/anime/59) (04:50, 26 August 2022)
--   📺 Watched episode 12 of [Chobits](https://anilist.co/anime/59) (03:02, 25 August 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
