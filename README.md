@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 274 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (21:34, 02 September 2022)
 -   📺 Completed [Kill la Kill](https://anilist.co/anime/18679) (06:32, 02 September 2022)
 -   📺 Watched episode 21 of [Kill la Kill](https://anilist.co/anime/18679) (00:03, 01 September 2022)
 -   📺 Plans to watch [Tsugu Tsugumomo Mini Anime](https://anilist.co/anime/154175) (18:51, 30 August 2022)
 -   📺 Watched episode 19 of [Kill la Kill](https://anilist.co/anime/18679) (05:38, 29 August 2022)
--   📺 Dropped [Chobits](https://anilist.co/anime/59) (02:14, 29 August 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
