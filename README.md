@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 43 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (17:02, 16 September 2022)
 -   📺 Completed [Onomatopoeia Rap ~Natsu Asobi-hen~](https://anilist.co/anime/154552) (01:20, 14 September 2022)
 -   📖 Read chapter 275 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (22:11, 09 September 2022)
 -   📖 Read chapter 274 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (21:34, 02 September 2022)
 -   📺 Completed [Kill la Kill](https://anilist.co/anime/18679) (06:32, 02 September 2022)
--   📺 Watched episode 21 of [Kill la Kill](https://anilist.co/anime/18679) (00:03, 01 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
