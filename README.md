@@ -27,7 +27,7 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 5 - 12 of [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (07:07, 17 September 2022)
+-   📖 Read chapter 5 - 23 of [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (07:09, 17 September 2022)
 -   📖 Read chapter 43 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (17:02, 16 September 2022)
 -   📺 Completed [Onomatopoeia Rap ~Natsu Asobi-hen~](https://anilist.co/anime/154552) (01:20, 14 September 2022)
 -   📖 Read chapter 275 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (22:11, 09 September 2022)
