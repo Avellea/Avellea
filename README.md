@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 34 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (23:54, 25 September 2022)
 -   📖 Read chapter 276 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (23:00, 21 September 2022)
 -   📺 Plans to watch [Genshin](https://anilist.co/anime/154765) (02:29, 20 September 2022)
 -   📺 Dropped [Kanojo mo Kanojo 2nd Season](https://anilist.co/anime/154692) (02:29, 20 September 2022)
 -   📖 Dropped [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (17:53, 17 September 2022)
--   📖 Read chapter 5 - 23 of [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (07:09, 17 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
