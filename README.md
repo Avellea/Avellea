@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [MM!](https://anilist.co/anime/8424) (01:40, 29 September 2022)
 -   📺 Plans to watch [DENKI-GAI](https://anilist.co/anime/20710) (00:40, 29 September 2022)
 -   📺 Plans to watch [Recovery of an MMO Junkie](https://anilist.co/anime/99726) (00:12, 29 September 2022)
 -   📺 Dropped [Kanojo, Okarishimasu 3rd Season](https://anilist.co/anime/154745) (23:52, 28 September 2022)
 -   📖 Read chapter 24 - 26 of [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (17:28, 28 September 2022)
--   📖 Read chapter 34 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (23:54, 25 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
