@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 61 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (22:57, 01 October 2022)
+-   📖 Read chapter 277 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (22:55, 01 October 2022)
 -   📺 Completed [I Want to Eat Your Pancreas](https://anilist.co/anime/99750) (06:11, 01 October 2022)
 -   📺 Plans to watch [MM!](https://anilist.co/anime/8424) (01:40, 29 September 2022)
 -   📺 Plans to watch [DENKI-GAI](https://anilist.co/anime/20710) (00:40, 29 September 2022)
--   📺 Plans to watch [Recovery of an MMO Junkie](https://anilist.co/anime/99726) (00:12, 29 September 2022)
--   📺 Dropped [Kanojo, Okarishimasu 3rd Season](https://anilist.co/anime/154745) (23:52, 28 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
