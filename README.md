@@ -19,7 +19,7 @@ Visual novel and danmaku connoisseur
 <h2 align="center">Socials</h2>
 <br>
 <p align="center">
-<img src="https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico" alt="spotify logo" width="16"> <a href="https://open.spotify.com/user/2r8tkjt7qlh7uo7k06z43t63a">Spotify</a> | <img src="https://github.com/fluidicon.png" alt="github logo" width="16"> <a href="https://github.com/Avellea">GitHub</a> | <img src="https://i.imgur.com/ywxedYu.png" alt="github logo" width="16"> Ave#2776 | <img src="https://store.steampowered.com/favicon.ico" alt="spotify logo" width="16"> <a href="https://steamcommunity.com/id/Avellea/">Steam</a>
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/spotify.svg" alt="spotify logo" width="16"> <a href="https://open.spotify.com/user/2r8tkjt7qlh7uo7k06z43t63a">Spotify</a> | <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" alt="github logo" width="16"> <a href="https://github.com/Avellea">GitHub</a> | <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" alt="github logo" width="16"> Ave#2776 | <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/steam.svg" alt="spotify logo" width="16"> <a href="https://steamcommunity.com/id/Avellea/">Steam</a>
 </p>
 <h1>
 
