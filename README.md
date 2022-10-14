@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 278 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (07:19, 14 October 2022)
 -   📺 Dropped [Fullmetal Alchemist: Brotherhood](https://anilist.co/anime/5114) (05:38, 14 October 2022)
 -   📺 Watched episode 13 of [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (05:25, 14 October 2022)
 -   📺 Watched episode 1 of [Chainsaw Man](https://anilist.co/anime/127230) (22:22, 11 October 2022)
 -   📖 Read chapter 61 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (22:57, 01 October 2022)
--   📖 Read chapter 277 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (22:55, 01 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
