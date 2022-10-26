@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [Chainsaw Man](https://anilist.co/anime/127230) (01:01, 26 October 2022)
 -   📺 Completed [FLCL](https://anilist.co/anime/227) (02:45, 24 October 2022)
 -   📖 Read chapter 279 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (03:17, 20 October 2022)
 -   📺 Watched episode 2 of [Chainsaw Man](https://anilist.co/anime/127230) (23:23, 18 October 2022)
 -   📖 Read chapter 278 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (07:19, 14 October 2022)
--   📺 Dropped [Fullmetal Alchemist: Brotherhood](https://anilist.co/anime/5114) (05:38, 14 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
