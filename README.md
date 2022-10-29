@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (13:57, 29 October 2022)
 -   📖 Read chapter 34 of [Yotsuba&!](https://anilist.co/manga/30104) (16:06, 28 October 2022)
 -   📖 Read chapter 280 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (00:50, 28 October 2022)
 -   📖 Read chapter 44 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (13:08, 27 October 2022)
 -   📺 Watched episode 3 of [Chainsaw Man](https://anilist.co/anime/127230) (01:01, 26 October 2022)
--   📺 Completed [FLCL](https://anilist.co/anime/227) (02:45, 24 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
