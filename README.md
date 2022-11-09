@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [Chainsaw Man](https://anilist.co/anime/127230) (23:39, 08 November 2022)
 -   📖 Read chapter 62 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (05:43, 06 November 2022)
 -   📺 Watched episode 4 of [Chainsaw Man](https://anilist.co/anime/127230) (03:31, 05 November 2022)
 -   📖 Read chapter 46 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (04:51, 04 November 2022)
 -   📖 Read chapter 45 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (03:33, 03 November 2022)
--   📖 Read chapter 35 of [Yotsuba&!](https://anilist.co/manga/30104) (14:34, 30 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
