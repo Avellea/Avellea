@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 63 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (15:35, 04 December 2022)
 -   📺 Watched episode 8 of [Chainsaw Man](https://anilist.co/anime/127230) (20:10, 29 November 2022)
 -   📺 Watched episode 8 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (19:03, 26 November 2022)
 -   📺 Plans to watch [The Disappearance of Haruhi Suzumiya](https://anilist.co/anime/7311) (02:41, 23 November 2022)
 -   📺 Watched episode 7 of [Chainsaw Man](https://anilist.co/anime/127230) (18:45, 22 November 2022)
--   📺 Watched episode 7 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (19:52, 19 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
