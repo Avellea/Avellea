@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 95 of [The Girl I Like Forgot Her Glasses](https://anilist.co/manga/105641) (19:48, 23 December 2022)
 -   📖 Read chapter 47 - 48 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (15:06, 19 December 2022)
 -   📺 Watched episode 11 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (19:05, 18 December 2022)
 -   📺 Watched episode 10 of [Chainsaw Man](https://anilist.co/anime/127230) (22:16, 14 December 2022)
 -   📺 Watched episode 10 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (19:52, 10 December 2022)
--   📺 Watched episode 9 of [Chainsaw Man](https://anilist.co/anime/127230) (00:36, 07 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
