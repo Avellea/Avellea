@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 138 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (02:40, 27 December 2022)
 -   📺 Watched episode 11 of [Chainsaw Man](https://anilist.co/anime/127230) (20:17, 24 December 2022)
 -   📺 Completed [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (20:17, 24 December 2022)
 -   📺 Watched episode 12 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (20:17, 24 December 2022)
 -   📖 Read chapter 95 of [The Girl I Like Forgot Her Glasses](https://anilist.co/manga/105641) (19:48, 23 December 2022)
--   📖 Read chapter 47 - 48 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (15:06, 19 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
