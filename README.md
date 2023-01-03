@@ -48,5 +48,6 @@ Visual novel and danmaku connoisseur
 
 <p align="center">
 <img src="https://i.pinimg.com/originals/5f/95/04/5f9504eb5a7d27ec7a6121b9e9aa48b3.gif">
+<br>
 <img src="https://count.getloli.com/get/@avellea?theme=gelbooru" alt=":name" />
 <p>
