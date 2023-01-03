@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [16bit Sensation](https://anilist.co/manga/124049) (23:32, 02 January 2023)
 -   📖 Plans to read [16bit Sensation](https://anilist.co/manga/124049) (17:13, 02 January 2023)
 -   📺 Completed [Chainsaw Man](https://anilist.co/anime/127230) (20:12, 31 December 2022)
 -   📖 Read chapter 138 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (02:40, 27 December 2022)
 -   📺 Watched episode 11 of [Chainsaw Man](https://anilist.co/anime/127230) (20:17, 24 December 2022)
--   📺 Completed [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (20:17, 24 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
