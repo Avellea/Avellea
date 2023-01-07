@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (06:38, 07 January 2023)
 -   📺 Watched episode 1 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (00:09, 06 January 2023)
 -   📖 Read chapter 123 of [Miss Kobayashi's Dragon Maid](https://anilist.co/manga/86303) (16:04, 05 January 2023)
 -   📖 Read chapter 1 of [16bit Sensation](https://anilist.co/manga/124049) (23:32, 02 January 2023)
 -   📖 Plans to read [16bit Sensation](https://anilist.co/manga/124049) (17:13, 02 January 2023)
--   📺 Completed [Chainsaw Man](https://anilist.co/anime/127230) (20:12, 31 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
