@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 49 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (22:59, 15 January 2023)
+-   📖 Completed [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (23:28, 15 January 2023)
+-   📖 Read chapter 49 - 56 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (23:25, 15 January 2023)
 -   📺 Watched episode 3 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (06:12, 15 January 2023)
 -   📺 Plans to watch [Suki na Ko ga Megane wo Wasureta](https://anilist.co/anime/160188) (00:01, 15 January 2023)
 -   📺 Watched episode 2 of [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (03:44, 13 January 2023)
--   📺 Watched episode 2 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (05:28, 12 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
