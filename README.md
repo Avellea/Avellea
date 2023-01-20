@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (05:58, 20 January 2023)
+-   📺 Watched episode 3 of [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (05:57, 20 January 2023)
 -   📖 Plans to read [Kurai Ano Ko to Shitai Koto](https://anilist.co/manga/141658) (02:26, 20 January 2023)
 -   📺 Watched episode 2 of [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (05:35, 18 January 2023)
 -   📖 Completed [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (23:28, 15 January 2023)
--   📖 Read chapter 49 - 56 of [Sore wa Rei no Shiwaza desu](https://anilist.co/manga/117342) (23:25, 15 January 2023)
--   📺 Watched episode 3 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (06:12, 15 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
