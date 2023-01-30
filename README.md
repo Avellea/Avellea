@@ -27,7 +27,7 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 4 - 10 of [Magical Trans!](https://anilist.co/manga/100417) (16:06, 30 January 2023)
+-   📖 Read chapter 4 - 13 of [Magical Trans!](https://anilist.co/manga/100417) (16:13, 30 January 2023)
 -   📺 Watched episode 5 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (03:59, 30 January 2023)
 -   📺 Plans to watch [Tenchi in Tokyo](https://anilist.co/anime/538) (19:49, 27 January 2023)
 -   📺 Watched episode 4 of [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (17:58, 27 January 2023)
