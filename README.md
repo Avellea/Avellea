@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (03:59, 30 January 2023)
 -   📺 Plans to watch [Tenchi in Tokyo](https://anilist.co/anime/538) (19:49, 27 January 2023)
 -   📺 Watched episode 4 of [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (17:58, 27 January 2023)
 -   📺 Watched episode 4 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (03:06, 26 January 2023)
 -   📺 Watched episode 3 of [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (03:06, 26 January 2023)
--   📖 Read chapter 96 of [The Girl I Like Forgot Her Glasses](https://anilist.co/manga/105641) (06:17, 23 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
