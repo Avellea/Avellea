@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (21:38, 04 February 2023)
+-   📺 Watched episode 5 of [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (21:37, 04 February 2023)
+-   📺 Watched episode 5 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (21:37, 04 February 2023)
 -   📖 Completed [Magical Trans!](https://anilist.co/manga/100417) (14:45, 02 February 2023)
 -   📖 Read chapter 36 - 39 of [Magical Trans!](https://anilist.co/manga/100417) (05:59, 02 February 2023)
--   📖 Read chapter 17 - 35 of [Magical Trans!](https://anilist.co/manga/100417) (14:38, 01 February 2023)
--   📖 Read chapter 64 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (05:53, 01 February 2023)
--   📺 Plans to watch [Tenchi Muyou!](https://anilist.co/anime/696) (01:15, 31 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
