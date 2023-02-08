@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (05:42, 08 February 2023)
 -   📺 Watched episode 6 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (00:45, 07 February 2023)
 -   📺 Watched episode 4 of [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (21:38, 04 February 2023)
 -   📺 Watched episode 5 of [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (21:37, 04 February 2023)
 -   📺 Watched episode 5 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (21:37, 04 February 2023)
--   📖 Completed [Magical Trans!](https://anilist.co/manga/100417) (14:45, 02 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
