@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (06:01, 17 February 2023)
+-   📺 Watched episode 7 of [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (06:01, 17 February 2023)
 -   📺 Watched episode 6 of [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (15:28, 16 February 2023)
 -   📺 Watched episode 7 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (03:35, 14 February 2023)
 -   📺 Watched episode 6 of [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (06:34, 10 February 2023)
--   📺 Watched episode 6 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (02:33, 09 February 2023)
--   📺 Watched episode 5 of [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (05:42, 08 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
