@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Kurumida Senpai no Guutara Kawaii Himitsu](https://anilist.co/manga/160486) (02:16, 05 March 2023)
 -   📺 Watched episode 9 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (05:56, 02 March 2023)
 -   📺 Watched episode 8 of [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (18:57, 24 February 2023)
 -   📺 Watched episode 8 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (18:57, 24 February 2023)
 -   📺 Watched episode 8 - 9 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (17:49, 20 February 2023)
--   📺 Watched episode 7 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (06:01, 17 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
