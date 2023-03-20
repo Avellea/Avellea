@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 12 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (05:53, 20 March 2023)
 -   📺 Watched episode 11 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (21:15, 19 March 2023)
 -   📺 Watched episode 11 of [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (21:15, 19 March 2023)
 -   📺 Plans to watch [Battle Programmer Shirase](https://anilist.co/anime/579) (01:34, 17 March 2023)
 -   📺 Plans to watch [Oreshura](https://anilist.co/anime/14749) (17:37, 15 March 2023)
--   📺 Watched episode 10 of [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (05:52, 13 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
