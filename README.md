@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (22:18, 23 March 2023)
 -   📺 Watched episode 12 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (05:11, 23 March 2023)
 -   📖 Plans to read [Ore no Real to Netoge ga Love Comedy ni Shinshokusare Hajimete Yabai](https://anilist.co/manga/88148) (04:33, 23 March 2023)
 -   📖 Read chapter 5 of [Hatsune Miku: Unofficial Hatsune Mix](https://anilist.co/manga/33446) (17:55, 21 March 2023)
 -   📺 Watched episode 12 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (05:53, 20 March 2023)
--   📺 Watched episode 11 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (21:15, 19 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
