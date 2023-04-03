@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Fruits Basket (2019)](https://anilist.co/anime/105334) (04:05, 03 April 2023)
+-   📺 Plans to watch [GAMERS!](https://anilist.co/anime/97766) (03:14, 03 April 2023)
 -   📺 Completed [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (04:39, 30 March 2023)
 -   📺 Completed [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (05:50, 28 March 2023)
 -   📺 Watched episode 12 of [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (05:50, 28 March 2023)
--   📺 Completed [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (22:18, 23 March 2023)
--   📺 Watched episode 12 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (05:11, 23 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
