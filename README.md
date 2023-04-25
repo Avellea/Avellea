@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (06:40, 25 April 2023)
 -   📺 Paused watching [Fruits Basket (2019)](https://anilist.co/anime/105334) (05:56, 25 April 2023)
 -   📺 Watched episode 3 of [KONOSUBA -An Explosion on This Wonderful World!](https://anilist.co/anime/150075) (05:56, 25 April 2023)
 -   📺 Watched episode 1 of [Oshi No Ko](https://anilist.co/anime/150672) (23:49, 13 April 2023)
 -   📺 Watched episode 3 - 4 of [Fruits Basket (2019)](https://anilist.co/anime/105334) (04:16, 13 April 2023)
--   📺 Watched episode 2 of [KONOSUBA -An Explosion on This Wonderful World!](https://anilist.co/anime/150075) (01:03, 13 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
