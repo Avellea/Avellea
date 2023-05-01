@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (02:29, 01 May 2023)
 -   📺 Watched episode 3 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (04:39, 27 April 2023)
 -   📺 Watched episode 4 of [KONOSUBA -An Explosion on This Wonderful World!](https://anilist.co/anime/150075) (03:57, 27 April 2023)
 -   📺 Watched episode 2 - 3 of [Oshi No Ko](https://anilist.co/anime/150672) (03:57, 27 April 2023)
 -   📖 Read chapter 99 of [The Girl I Like Forgot Her Glasses](https://anilist.co/manga/105641) (14:07, 26 April 2023)
--   📺 Watched episode 2 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (06:40, 25 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
