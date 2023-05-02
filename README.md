@@ -27,7 +27,7 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 52 of [Senpai is an Otokonoko](https://anilist.co/manga/118570) (15:19, 02 May 2023)
+-   📖 Read chapter 1 - 53 of [Senpai is an Otokonoko](https://anilist.co/manga/118570) (21:45, 02 May 2023)
 -   📺 Plans to watch [Back Street Girls -GOKUDOLS-](https://anilist.co/anime/100665) (06:01, 02 May 2023)
 -   📺 Watched episode 4 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (02:29, 01 May 2023)
 -   📺 Watched episode 3 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (04:39, 27 April 2023)
