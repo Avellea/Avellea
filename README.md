@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 89 of [Senpai is an Otokonoko](https://anilist.co/manga/118570) (05:05, 03 May 2023)
+-   📖 Completed [Senpai is an Otokonoko](https://anilist.co/manga/118570) (13:36, 03 May 2023)
+-   📖 Read chapter 1 - 99 of [Senpai is an Otokonoko](https://anilist.co/manga/118570) (13:35, 03 May 2023)
 -   📺 Plans to watch [Back Street Girls -GOKUDOLS-](https://anilist.co/anime/100665) (06:01, 02 May 2023)
 -   📺 Watched episode 4 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (02:29, 01 May 2023)
 -   📺 Watched episode 3 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (04:39, 27 April 2023)
--   📺 Watched episode 4 of [KONOSUBA -An Explosion on This Wonderful World!](https://anilist.co/anime/150075) (03:57, 27 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
