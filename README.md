@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [KONOSUBA -An Explosion on This Wonderful World!](https://anilist.co/anime/150075) (16:53, 09 May 2023)
 -   📖 Read chapter 2 of [16bit Sensation](https://anilist.co/manga/124049) (15:23, 04 May 2023)
 -   📺 Watched episode 4 of [Oshi No Ko](https://anilist.co/anime/150672) (16:33, 03 May 2023)
 -   📖 Completed [Senpai is an Otokonoko](https://anilist.co/manga/118570) (13:36, 03 May 2023)
 -   📖 Read chapter 1 - 99 of [Senpai is an Otokonoko](https://anilist.co/manga/118570) (13:35, 03 May 2023)
--   📺 Plans to watch [Back Street Girls -GOKUDOLS-](https://anilist.co/anime/100665) (06:01, 02 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
