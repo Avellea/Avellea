@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Happy Sugar Life](https://anilist.co/anime/101351) (04:55, 12 May 2023)
 -   📺 Plans to watch [Senpai wa Otokonoko](https://anilist.co/anime/163133) (20:57, 10 May 2023)
 -   📺 Plans to watch [Horimiya -piece- ](https://anilist.co/anime/163132) (01:01, 10 May 2023)
 -   📺 Watched episode 5 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (17:21, 09 May 2023)
 -   📺 Watched episode 5 of [KONOSUBA -An Explosion on This Wonderful World!](https://anilist.co/anime/150075) (16:53, 09 May 2023)
--   📖 Read chapter 2 of [16bit Sensation](https://anilist.co/manga/124049) (15:23, 04 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
