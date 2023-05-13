@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 36 of [Yotsuba&!](https://anilist.co/manga/30104) (18:28, 13 May 2023)
 -   📺 Watched episode 1 of [All Purpose Cultural Cat Girl Nuku Nuku](https://anilist.co/anime/373) (05:37, 12 May 2023)
 -   📺 Plans to watch [Happy Sugar Life](https://anilist.co/anime/101351) (04:55, 12 May 2023)
 -   📺 Plans to watch [Senpai wa Otokonoko](https://anilist.co/anime/163133) (20:57, 10 May 2023)
 -   📺 Plans to watch [Horimiya -piece- ](https://anilist.co/anime/163132) (01:01, 10 May 2023)
--   📺 Watched episode 5 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (17:21, 09 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
