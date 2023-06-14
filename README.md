@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [TONIKAWA: Over The Moon For You ~High School Days~](https://anilist.co/anime/166104) (18:21, 14 June 2023)
 -   📺 Watched episode 1 of [Jubei-chan the Ninja Girl: Secret of the Lovely Eyepatch](https://anilist.co/anime/635) (20:51, 04 June 2023)
 -   📺 Watched episode 2 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922) (23:59, 27 May 2023)
 -   📖 Plans to read [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (21:54, 21 May 2023)
 -   📖 Plans to read [Choppiri Ecchi na Sanshimai demo, Oyome-san ni Shite Kuremasu ka?](https://anilist.co/manga/114623) (21:54, 21 May 2023)
--   📖 Plans to read [D-Frag!](https://anilist.co/manga/44721) (21:54, 21 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
