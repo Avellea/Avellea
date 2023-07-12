@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 69 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (12:40, 12 July 2023)
 -   📺 Plans to watch [Project A-ko](https://anilist.co/anime/212) (15:39, 09 July 2023)
 -   📖 Read chapter 101 of [The Girl I Like Forgot Her Glasses](https://anilist.co/manga/105641) (15:09, 01 July 2023)
 -   📺 Plans to watch [Hoshikuzu Telepath](https://anilist.co/anime/155419) (03:09, 25 June 2023)
 -   📺 Plans to watch [TONIKAWA: Over The Moon For You ~High School Days~](https://anilist.co/anime/166104) (18:21, 14 June 2023)
--   📺 Watched episode 1 of [Jubei-chan the Ninja Girl: Secret of the Lovely Eyepatch](https://anilist.co/anime/635) (20:51, 04 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
