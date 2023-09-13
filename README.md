@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Code Geass: Lelouch of the Rebellion](https://anilist.co/anime/1575) (15:22, 13 September 2023)
 -   📺 Watched episode 2 - 5 of [Code Geass: Lelouch of the Rebellion](https://anilist.co/anime/1575) (18:17, 01 September 2023)
 -   📖 Completed [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (14:19, 31 August 2023)
 -   📖 Read chapter 71 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (12:20, 30 August 2023)
 -   📖 Read chapter 103 of [The Girl I Like Forgot Her Glasses](https://anilist.co/manga/105641) (15:41, 25 August 2023)
--   📖 Read chapter 70 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (16:32, 19 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
