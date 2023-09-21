@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 6 of [Code Geass: Lelouch of the Rebellion](https://anilist.co/anime/1575) (15:22, 13 September 2023)
--   📺 Watched episode 2 - 5 of [Code Geass: Lelouch of the Rebellion](https://anilist.co/anime/1575) (18:17, 01 September 2023)
--   📖 Completed [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (14:19, 31 August 2023)
--   📖 Read chapter 71 of [Breasts Are My Favorite Things in the World!](https://anilist.co/manga/100209) (12:20, 30 August 2023)
--   📖 Read chapter 103 of [The Girl I Like Forgot Her Glasses](https://anilist.co/manga/105641) (15:41, 25 August 2023)
+-   📺 Watched episode 1 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (01:24, 21 September 2023)
+-   📺 Paused watching [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (01:24, 21 September 2023)
+-   📺 Paused watching [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (01:24, 21 September 2023)
+-   📺 Paused watching [Oshi No Ko](https://anilist.co/anime/150672) (01:24, 21 September 2023)
+-   📺 Paused watching [Jubei-chan the Ninja Girl: Secret of the Lovely Eyepatch](https://anilist.co/anime/635) (01:23, 21 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
