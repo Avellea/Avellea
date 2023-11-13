@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 139 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (15:17, 13 November 2023)
 -   📺 Watched episode 1 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (01:24, 21 September 2023)
 -   📺 Paused watching [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (01:24, 21 September 2023)
 -   📺 Paused watching [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (01:24, 21 September 2023)
 -   📺 Paused watching [Oshi No Ko](https://anilist.co/anime/150672) (01:24, 21 September 2023)
--   📺 Paused watching [Jubei-chan the Ninja Girl: Secret of the Lovely Eyepatch](https://anilist.co/anime/635) (01:23, 21 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
