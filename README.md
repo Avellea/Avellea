@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Scott Pilgrim Takes Off](https://anilist.co/anime/170206) (16:13, 27 November 2023)
 -   📺 Plans to watch [The Tatami Galaxy](https://anilist.co/anime/7785) (14:31, 27 November 2023)
 -   📺 Watched episode 7 of [Scott Pilgrim Takes Off](https://anilist.co/anime/170206) (14:29, 27 November 2023)
 -   📺 Watched episode 5 of [Scott Pilgrim Takes Off](https://anilist.co/anime/170206) (06:09, 24 November 2023)
 -   📖 Read chapter 139 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (15:17, 13 November 2023)
--   📺 Watched episode 1 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (01:24, 21 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
