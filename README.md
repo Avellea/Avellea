@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Make a Girl](https://anilist.co/anime/154064) (02:26, 21 February 2024)
 -   📺 Plans to watch [The Apothecary Diaries](https://anilist.co/anime/161645) (04:15, 22 January 2024)
 -   📺 Plans to watch [Tamako -love story-](https://anilist.co/anime/20519) (15:18, 08 January 2024)
 -   📺 Plans to watch [Hokkaido Gals Are Super Adorable!](https://anilist.co/anime/155963) (04:13, 03 January 2024)
 -   📺 Plans to watch [Oomuro-ke: dear sisters](https://anilist.co/anime/167984) (04:12, 03 January 2024)
--   📺 Completed [Josee, the Tiger and the Fish](https://anilist.co/anime/113596) (05:58, 17 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
