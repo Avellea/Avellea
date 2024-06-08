@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 3 of [KONOSUBA -God's Blessing on This Wonderful World! 3](https://anilist.co/anime/136804) (17:56, 28 April 2024)
--   📺 Watched episode 7 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (23:49, 30 March 2024)
--   📺 Watched episode 6 of [Neon Genesis Evangelion](https://anilist.co/anime/30) (03:32, 07 March 2024)
--   📖 Completed [Fragtime](https://anilist.co/manga/85402) (03:44, 06 March 2024)
--   📖 Read chapter 11 of [Fragtime](https://anilist.co/manga/85402) (19:28, 03 March 2024)
+-   📺 Plans to watch [Fruits Basket -prelude-](https://anilist.co/anime/136192) (04:31, 08 June 2024)
+-   📺 Plans to watch [Girls' Last Tour](https://anilist.co/anime/99420) (04:29, 08 June 2024)
+-   📺 Plans to watch [Cardcaptor Sakura](https://anilist.co/anime/232) (04:23, 08 June 2024)
+-   📺 Completed [Gurren Lagann](https://anilist.co/anime/2001) (04:22, 08 June 2024)
+-   📺 Plans to watch [My Deer Friend Nokotan](https://anilist.co/anime/175977) (04:22, 08 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
