@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Paused watching [Love Hina](https://anilist.co/anime/189) (07:00, 08 August 2024)
 -   📺 Watched episode 2 - 6 of [Love Hina](https://anilist.co/anime/189) (04:57, 24 July 2024)
 -   📺 Watched episode 1 of [Love Hina](https://anilist.co/anime/189) (04:29, 16 July 2024)
 -   📺 Plans to watch [Maria†Holic](https://anilist.co/anime/5030) (05:08, 01 July 2024)
 -   📺 Completed [KONOSUBA -God's Blessing on This Wonderful World! 3](https://anilist.co/anime/136804) (00:38, 30 June 2024)
--   📺 Plans to watch [Ranma 1/2 (2024)](https://anilist.co/anime/178533) (22:42, 26 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
