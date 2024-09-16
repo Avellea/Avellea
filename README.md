@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [MONOGATARI Series: OFF & MONSTER Season](https://anilist.co/anime/173533) (04:49, 16 September 2024)
 -   📺 Watched episode 8 of [MONOGATARI Series: OFF & MONSTER Season](https://anilist.co/anime/173533) (02:01, 14 September 2024)
 -   📺 Watched episode 6 of [MONOGATARI Series: OFF & MONSTER Season](https://anilist.co/anime/173533) (03:04, 09 September 2024)
 -   📖 Plans to read [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (21:52, 08 September 2024)
 -   📺 Watched episode 5 of [MONOGATARI Series: OFF & MONSTER Season](https://anilist.co/anime/173533) (04:36, 08 September 2024)
--   📺 Watched episode 1 of [MONOGATARI Series: OFF & MONSTER Season](https://anilist.co/anime/173533) (01:42, 06 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
