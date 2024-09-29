@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Grand Blue Season 2](https://anilist.co/anime/182309) (17:50, 29 September 2024)
 -   📖 Plans to read [CITY](https://anilist.co/manga/97700) (18:34, 26 September 2024)
 -   📺 Plans to watch [CITY THE ANIMATION](https://anilist.co/anime/181841) (18:29, 26 September 2024)
 -   📺 Watched episode 10 of [MONOGATARI Series: OFF & MONSTER Season](https://anilist.co/anime/173533) (03:55, 23 September 2024)
 -   📺 Plans to watch [Bludgeoning Angel Dokuro-chan](https://anilist.co/anime/357) (02:51, 21 September 2024)
--   📺 Watched episode 9 of [MONOGATARI Series: OFF & MONSTER Season](https://anilist.co/anime/173533) (04:49, 16 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
