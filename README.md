@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Ranma1/2 (2024)](https://anilist.co/anime/178533) (20:59, 13 October 2024)
+-   📺 Watched episode 13 of [MONOGATARI Series: OFF & MONSTER Season](https://anilist.co/anime/173533) (20:59, 13 October 2024)
 -   📺 Watched episode 1 of [Ranma1/2 (2024)](https://anilist.co/anime/178533) (23:39, 06 October 2024)
 -   📺 Watched episode 12 of [MONOGATARI Series: OFF & MONSTER Season](https://anilist.co/anime/173533) (23:34, 06 October 2024)
 -   📺 Watched episode 11 of [MONOGATARI Series: OFF & MONSTER Season](https://anilist.co/anime/173533) (00:20, 30 September 2024)
--   📺 Plans to watch [Grand Blue Season 2](https://anilist.co/anime/182309) (17:50, 29 September 2024)
--   📖 Plans to read [CITY](https://anilist.co/manga/97700) (18:34, 26 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
