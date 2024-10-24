@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [Ranma1/2 (2024)](https://anilist.co/anime/178533) (20:59, 13 October 2024)
--   📺 Watched episode 13 of [MONOGATARI Series: OFF & MONSTER Season](https://anilist.co/anime/173533) (20:59, 13 October 2024)
--   📺 Watched episode 1 of [Ranma1/2 (2024)](https://anilist.co/anime/178533) (23:39, 06 October 2024)
--   📺 Watched episode 12 of [MONOGATARI Series: OFF & MONSTER Season](https://anilist.co/anime/173533) (23:34, 06 October 2024)
--   📺 Watched episode 11 of [MONOGATARI Series: OFF & MONSTER Season](https://anilist.co/anime/173533) (00:20, 30 September 2024)
+-   📺 Completed [MONOGATARI Series: OFF & MONSTER Season - A Cruel Fairy Tale: The Beautiful Princess](https://anilist.co/anime/180332) (04:03, 24 October 2024)
+-   📺 Paused watching [KONOSUBA -An Explosion on This Wonderful World!](https://anilist.co/anime/150075) (03:42, 24 October 2024)
+-   📺 Plans to watch [Perfect Blue](https://anilist.co/anime/437) (03:33, 24 October 2024)
+-   📺 Watched episode 3 of [Ranma1/2 (2024)](https://anilist.co/anime/178533) (03:25, 24 October 2024)
+-   📺 Completed [MONOGATARI Series: OFF & MONSTER Season](https://anilist.co/anime/173533) (03:24, 24 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
