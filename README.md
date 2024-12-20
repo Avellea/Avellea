@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [DAN DA DAN](https://anilist.co/anime/171018) (22:52, 20 December 2024)
 -   📺 Watched episode 5 - 8 of [DAN DA DAN](https://anilist.co/anime/171018) (05:51, 19 December 2024)
 -   📺 Plans to watch [DAN DA DAN](https://anilist.co/anime/171018) (21:20, 17 December 2024)
 -   📺 Completed [MONOGATARI Series: OFF & MONSTER Season - A Cruel Fairy Tale: The Beautiful Princess](https://anilist.co/anime/180332) (04:03, 24 October 2024)
 -   📺 Paused watching [KONOSUBA -An Explosion on This Wonderful World!](https://anilist.co/anime/150075) (03:42, 24 October 2024)
--   📺 Plans to watch [Perfect Blue](https://anilist.co/anime/437) (03:33, 24 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
