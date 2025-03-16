@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [All Purpose Cultural Cat Girl Nuku Nuku](https://anilist.co/anime/373) (22:19, 16 March 2025)
 -   📺 Watched episode 3 of [All Purpose Cultural Cat Girl Nuku Nuku](https://anilist.co/anime/373) (21:40, 15 March 2025)
 -   📺 Watched episode 2 of [All Purpose Cultural Cat Girl Nuku Nuku](https://anilist.co/anime/373) (01:45, 14 March 2025)
 -   📺 Plans to watch [Twin Angel: Twinkle Paradise](https://anilist.co/anime/10217) (06:38, 25 December 2024)
 -   📺 Completed [DAN DA DAN](https://anilist.co/anime/171018) (22:52, 20 December 2024)
--   📺 Watched episode 5 - 8 of [DAN DA DAN](https://anilist.co/anime/171018) (05:51, 19 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
