@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Paused watching [Ranma1/2 (2024)](https://anilist.co/anime/178533) (15:27, 23 March 2025)
+-   📖 Dropped [The Girl I Like Forgot Her Glasses](https://anilist.co/manga/105641) (15:26, 23 March 2025)
+-   📖 Dropped [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (15:26, 23 March 2025)
+-   📖 Dropped [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (15:26, 23 March 2025)
 -   📺 Completed [All Purpose Cultural Cat Girl Nuku Nuku](https://anilist.co/anime/373) (00:44, 23 March 2025)
--   📺 Watched episode 4 - 5 of [All Purpose Cultural Cat Girl Nuku Nuku](https://anilist.co/anime/373) (23:56, 22 March 2025)
--   📺 Watched episode 3 of [All Purpose Cultural Cat Girl Nuku Nuku](https://anilist.co/anime/373) (22:19, 16 March 2025)
--   📺 Watched episode 3 of [All Purpose Cultural Cat Girl Nuku Nuku](https://anilist.co/anime/373) (21:40, 15 March 2025)
--   📺 Watched episode 2 of [All Purpose Cultural Cat Girl Nuku Nuku](https://anilist.co/anime/373) (01:45, 14 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
