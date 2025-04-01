@@ -27,7 +27,7 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 of [Goodnight Punpun](https://anilist.co/manga/34632) (02:46, 01 April 2025)
+-   📖 Read chapter 2 - 3 of [Goodnight Punpun](https://anilist.co/manga/34632) (04:42, 01 April 2025)
 -   📺 Paused watching [Ranma1/2 (2024)](https://anilist.co/anime/178533) (15:27, 23 March 2025)
 -   📖 Dropped [The Girl I Like Forgot Her Glasses](https://anilist.co/manga/105641) (15:26, 23 March 2025)
 -   📖 Dropped [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (15:26, 23 March 2025)
