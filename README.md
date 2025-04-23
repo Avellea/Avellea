@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Mobile Suit Gundam GQuuuuuuX](https://anilist.co/anime/185213) (15:48, 23 April 2025)
 -   📺 Completed [COLORFUL STAGE! The Movie: A Miku Who Can't Sing](https://anilist.co/anime/179878) (03:24, 18 April 2025)
 -   📺 Plans to watch [Pani Poni Dash!](https://anilist.co/anime/490) (23:11, 14 April 2025)
 -   📖 Read chapter 30 of [Goodnight Punpun](https://anilist.co/manga/34632) (03:29, 02 April 2025)
 -   📖 Read chapter 2 - 3 of [Goodnight Punpun](https://anilist.co/manga/34632) (04:42, 01 April 2025)
--   📺 Paused watching [Ranma1/2 (2024)](https://anilist.co/anime/178533) (15:27, 23 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
