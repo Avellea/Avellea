@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Gravity Rush: The Animation - Overture](https://anilist.co/anime/98004) (19:01, 30 May 2025)
 -   📖 Completed [Gravity Daze 2: Juuryoku-teki Memai Tsuisoutan](https://anilist.co/manga/103199) (00:47, 22 May 2025)
 -   📖 Completed [Schrodinger no Nekomiya-san](https://anilist.co/manga/109828) (19:01, 21 May 2025)
 -   📖 Read chapter 5 of [Gravity Daze 2: Juuryoku-teki Memai Tsuisoutan](https://anilist.co/manga/103199) (18:43, 21 May 2025)
 -   📺 Plans to watch [Mobile Suit Gundam GQuuuuuuX](https://anilist.co/anime/185213) (15:48, 23 April 2025)
--   📺 Completed [COLORFUL STAGE! The Movie: A Miku Who Can't Sing](https://anilist.co/anime/179878) (03:24, 18 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
