@@ -27,11 +27,11 @@ Visual novel and danmaku connoisseur
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Steins;Gate: Egoistic Poriomania](https://anilist.co/anime/10863) (03:00, 03 June 2025)
 -   📖 Paused reading [Goodnight Punpun](https://anilist.co/manga/34632) (22:23, 31 May 2025)
 -   📺 Completed [Gravity Rush: The Animation - Overture](https://anilist.co/anime/98004) (19:01, 30 May 2025)
 -   📖 Completed [Gravity Daze 2: Juuryoku-teki Memai Tsuisoutan](https://anilist.co/manga/103199) (00:47, 22 May 2025)
 -   📖 Completed [Schrodinger no Nekomiya-san](https://anilist.co/manga/109828) (19:01, 21 May 2025)
--   📖 Read chapter 5 of [Gravity Daze 2: Juuryoku-teki Memai Tsuisoutan](https://anilist.co/manga/103199) (18:43, 21 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
