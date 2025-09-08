@@ -1,5 +1,5 @@
 <h1 align="center">
-Avellea | 23 | IT
+Avellea | 24 | IT
 </h1>
 
 
@@ -9,17 +9,14 @@ Fun facts
 </h2>
 
 <p align="center">
-Waifu is Ruri Gokou from Oreimo<br>
-Developer for Twitch VTuber Kazuki<br>
-Creator of KonpakuBot. An AniList, osu! and moderator bot for Discord<br>
-Visual novel and danmaku connoisseur
+
 </p>
 
 <h1>
 <h2 align="center">Socials</h2>
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/spotify.svg" alt="spotify logo" width="16"> <a href="https://open.spotify.com/user/2r8tkjt7qlh7uo7k06z43t63a">Spotify</a> | <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" alt="github logo" width="16"> <a href="https://github.com/Avellea">GitHub</a> | <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" alt="github logo" width="16"> Ave#2776 | <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/steam.svg" alt="spotify logo" width="16"> <a href="https://steamcommunity.com/id/Avellea/">Steam</a>
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/spotify.svg" alt="spotify logo" width="16"> <a href="https://open.spotify.com/user/2r8tkjt7qlh7uo7k06z43t63a">Spotify</a> | <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" alt="github logo" width="16"> <a href="https://github.com/Avellea">GitHub</a> | <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" alt="github logo" width="16"> Ave#2776 
 </p>
 <h1>
 
