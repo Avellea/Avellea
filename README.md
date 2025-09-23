@@ -24,11 +24,11 @@ Fun facts
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [bâan: The Boundary of Adulthood](https://anilist.co/anime/195494) (03:47, 23 September 2025)
 -   📺 Plans to watch [bâan: The Boundary of Adulthood](https://anilist.co/anime/195494) (18:32, 04 July 2025)
 -   📺 Plans to watch [Monogatari Series: Off & Monster Season Shin Episode](https://anilist.co/anime/195448) (18:08, 04 July 2025)
 -   📺 Completed [Steins;Gate The Movie – Load Region of Déjà Vu](https://anilist.co/anime/11577) (04:34, 04 June 2025)
 -   📺 Completed [Steins;Gate: Egoistic Poriomania](https://anilist.co/anime/10863) (03:00, 03 June 2025)
--   📖 Paused reading [Goodnight Punpun](https://anilist.co/manga/34632) (22:23, 31 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
