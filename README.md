@@ -24,11 +24,11 @@ Fun facts
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Bomberman Jetters](https://anilist.co/anime/751) (04:51, 15 December 2025)
 -   📺 Completed [Doubutsu no Mori](https://anilist.co/anime/2950) (06:05, 16 November 2025)
 -   📺 Plans to watch [NEEDY GIRL OVERDOSE](https://anilist.co/anime/202102) (18:37, 10 November 2025)
 -   📺 Completed [bâan: The Boundary of Adulthood](https://anilist.co/anime/195494) (03:47, 23 September 2025)
 -   📺 Plans to watch [bâan: The Boundary of Adulthood](https://anilist.co/anime/195494) (18:32, 04 July 2025)
--   📺 Plans to watch [Monogatari Series: Off & Monster Season Shin Episode](https://anilist.co/anime/195448) (18:08, 04 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
